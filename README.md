@@ -18,4 +18,4 @@ If you have magazines that are not yet included, feel free to create the list on
 
 ## Copyright
 
-My work on this project is released under the Creative Commons Attribution 4.0 International Public License, which can be found in the [`LICENSE.md`](LICENSE.md) file. **The builds themselves, as well as the cover images are copyright [Future US, Inc](https://www.futureplc.com/our-brands/).** I have legally purchased every magazine I have taken the builds from.
+My work on this project is released under the Creative Commons Attribution 4.0 International Public License, which can be found in the [`LICENSE.md`](LICENSE.md) file. **The builds themselves, as well as the cover images are copyright [Future US, Inc](https://www.futureplc.com/our-brands/).** I have legally purchased every magazine I have taken the builds from, because _yes_, physical magazines are better than online news and magazines.
