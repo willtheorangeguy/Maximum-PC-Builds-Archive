@@ -1,0 +1,88 @@
+@import url(https://fonts.bunny.net/css?family=anton:400);
+
+body {
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headline {
+    font-family: 'Anton', sans-serif;
+    font-size: 58px;
+    padding: 0; 
+    margin: 0;
+}
+
+.red_headline {
+    color: rgb(205, 23, 25);
+}
+
+.copy {
+    color: rgb(125, 125, 125);
+}
+
+.cover {
+    width: 320px;
+    height: 418px;
+    padding-right: 4px;
+    padding-left: 4px;
+}
+
+/* unvisited link */
+.issue:link {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  .issue:visited {
+    color: rgb(0, 0, 0);
+  }
+  
+  /* mouse over link */
+  .issue:hover {
+    color: rgb(205, 23, 25);
+    text-decoration: underline;
+  }
+  
+  /* selected link */
+  .issue:active {
+    color: rgb(0, 0, 0);
+  }
+
+/* unvisited link */
+.link:link {
+    color: rgb(125, 125, 125);
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  .link:visited {
+    color: rgb(125, 125, 125);
+  }
+  
+  /* mouse over link */
+  .link:hover {
+    color: rgb(205, 23, 25);
+    text-decoration: underline;
+  }
+  
+  /* selected link */
+  .link:active {
+    color: rgb(125, 125, 125);
+  }
