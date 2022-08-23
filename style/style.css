@@ -16,20 +16,27 @@ a {
     text-decoration: none;
 }
 
-table {
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.table {
     margin-left: auto;
     margin-right: auto;
 }
 
 .headline {
     font-family: 'Anton', sans-serif;
-    font-size: 58px;
+    font-size: 400%;
     padding: 0; 
     margin: 0;
-}
-
-.red_headline {
-    color: rgb(205, 23, 25);
 }
 
 .copy {
@@ -39,8 +46,6 @@ table {
 .cover {
     width: 320px;
     height: 418px;
-    padding-right: 4px;
-    padding-left: 4px;
 }
 
 /* unvisited link */
