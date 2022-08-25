@@ -27,7 +27,8 @@ If applicable, add screenshots to help explain your problem.
 **Desktop (please complete the following information):**
 
 - OS: [e.g. Windows]
-- Web Browser: [e.g. Chrome, Microsoft Edge]
+- Browser [e.g. Chrome, Edge Chromium]
+- Browser Version [e.g. 89]
 
 **Additional Context**
 Add any other context about the problem here.
