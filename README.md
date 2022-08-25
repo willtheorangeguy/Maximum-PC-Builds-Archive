@@ -16,14 +16,87 @@ A table of contents can be found below:
 
 |**Year & Issue**|**Build Category**|**PCPartPicker**|**Mardown**|**Web**|
 |----------------|------------------|----------------|-----------|-------|
-|January 2018|Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
-|January 2018|Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
-|January 2018|Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+|January 2018|Budget|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/#view=PrnrMp)|[Markdown]()|[Web]()|
+|January 2018|Mid-Range|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/#view=BKdcxr)|[Markdown]()|[Web]()|
+|January 2018|Turbo|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/#view=b3vcxr)|[Markdown]()|[Web]()|
 ||||||
-|January 2018|Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
-|January 2018|Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
-|January 2018|Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+|February 2018|Budget|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/#view=Jvh8Q7)|[Markdown]()|[Web]()|
+|February 2018|Mid-Range|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/#view=zmJZcf)|[Markdown]()|[Web]()|
+|February 2018|Turbo|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/#view=yDTRVn)|[Markdown]()|[Web]()|
 ||||||
+|March 2018|Budget|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/#view=ymJZcf)|[Markdown]()|[Web]()|
+|March 2018|Mid-Range|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/#view=T42npg)|[Markdown]()|[Web]()|
+|March 2018|Turbo|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/#view=JzjC8d)|[Markdown]()|[Web]()|
+||||||
+|Holiday 2020|AMD Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|Holiday 2020|Intel Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|Holiday 2020|AMD Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|Holiday 2020|Intel Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|Holiday 2020|AMD Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+|Holiday 2020|Intel Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+||||||
+|January 2021|AMD Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|January 2021|Intel Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|January 2021|AMD Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|January 2021|Intel Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|January 2021|AMD Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+|January 2021|Intel Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+||||||
+|February 2021|AMD Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|February 2021|Intel Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|February 2021|AMD Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|February 2021|Intel Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|February 2021|AMD Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+|February 2021|Intel Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+||||||
+|March 2021|AMD Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|March 2021|Intel Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|March 2021|AMD Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|March 2021|Intel Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|March 2021|AMD Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+|March 2021|Intel Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+||||||
+|April 2021|AMD Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|April 2021|Intel Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|April 2021|AMD Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|April 2021|Intel Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|April 2021|AMD Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+|April 2021|Intel Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+||||||
+|May 2021|AMD Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|May 2021|Intel Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|May 2021|AMD Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|May 2021|Intel Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|May 2021|AMD Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+|May 2021|Intel Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+||||||
+|June 2021|AMD Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|June 2021|Intel Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|June 2021|AMD Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|June 2021|Intel Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|June 2021|AMD Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+|June 2021|Intel Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+||||||
+|July 2021|AMD Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|July 2021|Intel Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|July 2021|AMD Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|July 2021|Intel Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|July 2021|AMD Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+|July 2021|Intel Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+||||||
+|August 2021|AMD Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|August 2021|Intel Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|August 2021|AMD Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|August 2021|Intel Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|August 2021|AMD Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+|August 2021|Intel Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+||||||
+|September 2021|AMD Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|September 2021|Intel Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|September 2021|AMD Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|September 2021|Intel Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|September 2021|AMD Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+|September 2021|Intel Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
 
 ## Contributing
 
