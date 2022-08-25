@@ -4,11 +4,11 @@ An archive of the builds featured on the last pages of the Maximum PC magazine. 
 
 ## How to find the builds
 
-The builds can be found in two places, in three formats:
+The builds can be found in two places, in three formats, and different currencies:
 
-1. Each build can be found on PCPartPicker, under my account linked here: https://ca.pcpartpicker.com/user/willtheornageguy/saved/.
-2. This repository holds Markdown versions of each build listing, which can be found through the folder structure above.
-3. The webpage for this repository holds HTML versions of build listing, which can be found here: https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/. 
+1. Each build can be found on PCPartPicker, under my account linked here: https://ca.pcpartpicker.com/user/willtheornageguy/saved/. These list can be changed to whatever currency PCPP supports.
+2. This repository holds Markdown versions of each build listing, which can be found through the folder structure above. These lists are in my local currency, Canadian Dollars.
+3. The webpage for this repository holds HTML versions of build listing, which can be found here: https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/. These lists are in American Dollars. 
 
 **Since these builds are older, and new PC parts are released all the time, some parts do not have current prices with them, and so it is best to use the originally printed prices, found on the website or in the Markdown files.**
 
