@@ -12,6 +12,19 @@ The builds can be found in two places, in three formats:
 
 **Since these builds are older, and new PC parts are released all the time, some parts do not have current prices with them, and so it is best to use the originally printed prices, found on the website or in the Markdown files.**
 
+A table of contents can be found below:
+
+|**Year & Issue**|**Build Category**|**PCPartPicker**|**Mardown**|**Web**|
+|----------------|------------------|----------------|-----------|-------|
+|January 2018|Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|January 2018|Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|January 2018|Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+||||||
+|January 2018|Budget|[PCPartPicker]()|[Markdown]()|[Web]()|
+|January 2018|Mid-Range|[PCPartPicker]()|[Markdown]()|[Web]()|
+|January 2018|Turbo|[PCPartPicker]()|[Markdown]()|[Web]()|
+||||||
+
 ## Contributing
 
 If you have magazines that are not yet included, feel free to create the list on PCPartPicker, and then submit a [pull request](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/pulls) to add it. 
