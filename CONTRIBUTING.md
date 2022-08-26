@@ -26,7 +26,7 @@ Please contribute using [GitHub Flow](https://guides.github.com/introduction/flo
 - **Ensure the issue has not already been added** by looking through the folder tree on GitHub.
 - If you are unable to find the issue, create a list for each of the builds on [PCPartPicker](https://pcpartpicker.com/). For older issues, create one for each of the **Budget**, **Mid-Range**, and **Turbo** categories. If the issue is from 2020 or newer, create create one for each of the **AMD Budget**, **Intel Budget**, **AMD Mid-Range**, **Intel Mid-Range**, **AMD Turbo**, and **Intel Turbo** categories.
 - Create a **Markdown** page for each of the builds in the respective year and month folders. Then, create an **HTML** page for each of the builds in the website on the [`gh-pages`](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/tree/gh-pages) branch.
-- Finally, update the [README Table of Contents](README.md#how-to-find-the-builds) with links to the PCPartPicker, Markdown, and Web versions of the builds.
+- Finally, update the [README Table of Contents](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive#table-of-contents) with links to the PCPartPicker, Markdown, and Web versions of the builds.
 
 ### Did you find a bug?
 
