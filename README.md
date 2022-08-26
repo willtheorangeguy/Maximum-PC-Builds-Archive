@@ -165,16 +165,19 @@ This software uses the following open source packages, projects, services or web
 <table>
   <tr>
     <th align="center"><img src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F2107379463%2Ficons%2Fmonochrome_large.png?w=240&h=240&s=8a19bbc158996d098e2fb18310ba7f33" width="150" height="150" alt="GitHub"/></th>
+    <th align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Future_plc.svg/768px-Future_plc.svg.png" width="150" height="150" alt="GitHub"/></th>
     <th align="center"><img src="https://ca.pcpartpicker.com/static/forever/img/pcpp-icon.svg" width="150" height="150" alt="PCPP"/></th>
     <th align="center"><img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60ae96c09f902b0001b4569c/0x0.png" width="150" height="150" alt="Bunny Fonts"/></th>
   </tr>
   <tr>
     <td align="center">GitHub</td>
+    <td align="center">Future Magazines (Maximum PC)</td>
     <td align="center">PCPartPicker</td>
     <td align="center">Bunny Fonts</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/">Web</a> - <a href="https://github.com/pricing">Plans</a></td>
+    <td align="center"><a href="https://www.futureplc.com/">Web</a> - <a href="https://www.magazinesdirect.com/az-magazines/53604058/maximum-pc-magazine-subscription.thtml?j=MPC">Subscribe</a></td>
     <td align="center"><a href="https://ca.pcpartpicker.com/">Web</a></td>
     <td align="center"><a href="https://fonts.bunny.net/">Web</a></td>
 </table>
