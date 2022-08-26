@@ -51,7 +51,7 @@
 
 ## Download
 
-You can **[download](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/archive/refs/heads/main.zip) the archive** to view the Markdown files or run the website locally.
+You can **[download](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/archive/refs/heads/main.zip) the `main` branch archive** to view the Markdown files or **[download](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/archive/refs/heads/gh-pages.zip) the `gh-pages` branch archive** run the website locally.
 
 ## How To Use
 
