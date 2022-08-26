@@ -13,6 +13,8 @@
 <div align="center">
   <!-- Stability -->
   <img alt="GitHub Pages State" src="https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages">
+  <!-- Gitleaks -->
+  <img alt="Gitleaks State" src="https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/actions/workflows/gitleaks.yml/badge.svg">
   <!-- Version -->
   <img alt="GitHub Version" src="https://img.shields.io/github/v/release/willtheorangeguy/Maximum-PC-Builds-Archive">
   <!-- Issues -->
