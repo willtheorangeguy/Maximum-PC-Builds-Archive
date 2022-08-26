@@ -193,4 +193,4 @@ This software uses the following open source packages, projects, services or web
 
 My work on this project is released under the Creative Commons Attribution 4.0 International Public License, which can be found in the [`LICENSE`](LICENSE.md) file. The builds themselves, as well as the cover images are copyright [Future US, Inc.](https://www.futureplc.com/our-brands/) See the [Privacy Policy](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/blob/main/docs/legal/PRIVACY.md) and [Terms and Conditions](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/blob/main/docs/legal/TERMS.md) for legal information.
 
-I have legally purchased every magazine I have taken the builds from, because **yes**, physical magazines are better than digital magazines.
+I have legally purchased every magazine I have taken the builds from, because, **yes**, physical magazines are better than digital magazines.
