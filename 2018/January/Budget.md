@@ -6,9 +6,9 @@ Type|Item|Price|Print Price
 **Motherboard** | [ASRock AB350 Gaming-ITX/ac Mini ITX AM4 Motherboard](https://ca.pcpartpicker.com/product/nG98TW/asrock-ab350-gaming-itxac-mini-itx-am4-motherboard-ab350-gaming-itxac) |-
 **Memory** | [Patriot Viper Elite 8 GB (2 x 4 GB) DDR4-2666 CL16 Memory](https://ca.pcpartpicker.com/product/sP8j4D/patriot-viper-elite-8gb-2-x-4gb-ddr4-2666-memory-pve48g266c6kgy) |-
 **Storage** | [TEAMGROUP L5 LITE 120 GB 2.5" Solid State Drive](https://ca.pcpartpicker.com/product/NHX2FT/team-l5-lite-120gb-25-solid-state-drive-t2535t120g0c101) |-
-**Storage** | [Western Digital Blue 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Yrdqqs/western-digital-blue-1-tb-35-7200rpm-internal-hard-drive-wdbh2d0010hnc-nrsn) | $72.79 @ Best Buy Canada 
+**Storage** | [Western Digital Blue 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Yrdqqs/western-digital-blue-1-tb-35-7200rpm-internal-hard-drive-wdbh2d0010hnc-nrsn) | $72.79 @ Best Buy Canada
 **Video Card** | [MSI GeForce GTX 1050 Ti 4 GB AERO ITX Video Card](https://ca.pcpartpicker.com/product/x7Jkcf/msi-geforce-gtx-1050-ti-4gb-video-card-gtx-1050-ti-aero-itx-4g-oc) |-
 **Case** | [Phanteks Enthoo EVOLV ITX Mini ITX Tower Case](https://ca.pcpartpicker.com/product/nTJkcf/phanteks-case-phes215psrd) |-
-**Power Supply** | [EVGA BR 450 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/xDMwrH/evga-br-450w-80-bronze-certified-atx-power-supply-100-br-0450-k1) | $72.79 @ Canada Computers 
+**Power Supply** | [EVGA BR 450 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/xDMwrH/evga-br-450w-80-bronze-certified-atx-power-supply-100-br-0450-k1) | $72.79 @ Canada Computers
  | *Prices include shipping, taxes, rebates, and discounts* |
  | **Total** | **$422.48**

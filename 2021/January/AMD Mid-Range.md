@@ -2,15 +2,15 @@
 
 Type|Item|Price
 :----|:----|:----
-**CPU** | [AMD Ryzen 5 3600 3.6 GHz 6-Core Processor](https://ca.pcpartpicker.com/product/9nm323/amd-ryzen-5-3600-36-thz-6-core-processor-100-100000031box) | $223.99 @ Amazon Canada 
+**CPU** | [AMD Ryzen 5 3600 3.6 GHz 6-Core Processor](https://ca.pcpartpicker.com/product/9nm323/amd-ryzen-5-3600-36-thz-6-core-processor-100-100000031box) | $223.99 @ Amazon Canada
 **CPU Cooler**| Corsair A500 Dual Fan CPU Cooler|  
-**Motherboard** | [Asus TUF GAMING X570-PLUS ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/whMTwP/asus-tuf-gaming-x570-plus-atx-am4-motherboard-tuf-gaming-x570-plus) | $417.75 @ Amazon Canada 
+**Motherboard** | [Asus TUF GAMING X570-PLUS ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/whMTwP/asus-tuf-gaming-x570-plus-atx-am4-motherboard-tuf-gaming-x570-plus) | $417.75 @ Amazon Canada
 **Memory** | [OLOy MD4U0836180BHKDA 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/V8848d/oloy-16-gb-2-x-8-gb-ddr4-3600-cl18-memory-md4u0836180bhkda) |-
-**Storage** | [Gigabyte AORUS Gen4 500 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/nPjNnQ/gigabyte-aorus-gen4-500-gb-m2-2280-nvme-solid-state-drive-gp-ag4500g) | $161.68 @ Amazon Canada 
-**Storage** | [Seagate Constellation ES 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/ZwsKHx/seagate-internal-hard-drive-st1000nm0011) | $144.66 @ Amazon Canada 
+**Storage** | [Gigabyte AORUS Gen4 500 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/nPjNnQ/gigabyte-aorus-gen4-500-gb-m2-2280-nvme-solid-state-drive-gp-ag4500g) | $161.68 @ Amazon Canada
+**Storage** | [Seagate Constellation ES 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/ZwsKHx/seagate-internal-hard-drive-st1000nm0011) | $144.66 @ Amazon Canada
 **Video Card** | [MSI Radeon RX 5700 8 GB GAMING X Video Card](https://ca.pcpartpicker.com/product/nd9tt6/msi-radeon-rx-5700-8-gb-gaming-x-video-card-radeon-rx-5700-gaming-x) |-
-**Case** | [Lian Li PC-O11 Dynamic ATX Full Tower Case](https://ca.pcpartpicker.com/product/Hwkj4D/lian-li-pc-o11dx-atx-full-tower-case-pc-o11dx) | $190.39 @ Memory Express 
-**Power Supply** | [Corsair CX650 (2017) 650 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/3F2rxr/corsair-cx-2017-650w-80-bronze-certified-atx-power-supply-cp-9020122-na) | $106.40 @ Amazon Canada 
-**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo 
+**Case** | [Lian Li PC-O11 Dynamic ATX Full Tower Case](https://ca.pcpartpicker.com/product/Hwkj4D/lian-li-pc-o11dx-atx-full-tower-case-pc-o11dx) | $190.39 @ Memory Express
+**Power Supply** | [Corsair CX650 (2017) 650 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/3F2rxr/corsair-cx-2017-650w-80-bronze-certified-atx-power-supply-cp-9020122-na) | $106.40 @ Amazon Canada
+**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo
  | *Prices include shipping, taxes, rebates, and discounts* |
  | **Total** | **$1389.91**
