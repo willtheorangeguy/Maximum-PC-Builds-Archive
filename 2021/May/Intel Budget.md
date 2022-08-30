@@ -2,14 +2,14 @@
 
 Type|Item|Price
 :----|:----|:----
-**CPU** | [Intel Core i3-10100 3.6 GHz Quad-Core Processor](https://ca.pcpartpicker.com/product/qtqBD3/intel-core-i3-10100-36-ghz-quad-core-processor-bx8070110100) | $154.92 @ Amazon Canada 
+**CPU** | [Intel Core i3-10100 3.6 GHz Quad-Core Processor](https://ca.pcpartpicker.com/product/qtqBD3/intel-core-i3-10100-36-ghz-quad-core-processor-bx8070110100) | $154.92 @ Amazon Canada
 **Motherboard** | [ASRock B460M-HDV Micro ATX LGA1200 Motherboard](https://ca.pcpartpicker.com/product/cmvqqs/asrock-b460m-hdv-micro-atx-lga1200-motherboard-b460m-hdv) |-
-**Memory** | [G.Skill Aegis 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory](https://ca.pcpartpicker.com/product/mcH8TW/gskill-aegis-16-gb-2-x-8-gb-ddr4-3200-memory-f4-3200c16d-16gis) | $83.99 @ Newegg Canada 
-**Storage** | [Samsung 970 Evo Plus 250 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/BDYLrH/samsung-970-evo-plus-250-gb-m2-2280-nvme-solid-state-drive-mz-v7s250bam) | $84.99 @ Dell 
+**Memory** | [G.Skill Aegis 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory](https://ca.pcpartpicker.com/product/mcH8TW/gskill-aegis-16-gb-2-x-8-gb-ddr4-3200-memory-f4-3200c16d-16gis) | $83.99 @ Newegg Canada
+**Storage** | [Samsung 970 Evo Plus 250 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/BDYLrH/samsung-970-evo-plus-250-gb-m2-2280-nvme-solid-state-drive-mz-v7s250bam) | $84.99 @ Dell
 **Storage** | [Seagate BarraCuda 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010) | $61.66 @ Vuugo
 **Video Card**| Nvidia GeForce RTX 3060|  
-**Case** | [Corsair 4000D Airflow ATX Mid Tower Case](https://ca.pcpartpicker.com/product/bCYQzy/corsair-4000d-airflow-atx-mid-tower-case-cc-9011200-ww) | $150.64 @ Vuugo 
-**Power Supply** | [EVGA BR 450 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/xDMwrH/evga-br-450w-80-bronze-certified-atx-power-supply-100-br-0450-k1) | $72.79 @ Canada Computers 
-**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo 
+**Case** | [Corsair 4000D Airflow ATX Mid Tower Case](https://ca.pcpartpicker.com/product/bCYQzy/corsair-4000d-airflow-atx-mid-tower-case-cc-9011200-ww) | $150.64 @ Vuugo
+**Power Supply** | [EVGA BR 450 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/xDMwrH/evga-br-450w-80-bronze-certified-atx-power-supply-100-br-0450-k1) | $72.79 @ Canada Computers
+**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo
  | *Prices include shipping, taxes, rebates, and discounts* |
  | **Total** | **$754.03**

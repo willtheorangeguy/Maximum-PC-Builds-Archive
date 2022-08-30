@@ -2,15 +2,15 @@
 
 Type|Item|Price
 :----|:----|:----
-**CPU** | [AMD Ryzen 7 5800X 3.8 GHz 8-Core Processor](https://ca.pcpartpicker.com/product/qtvqqs/amd-ryzen-7-5800x-38-ghz-8-core-processor-100-100000063wof) | $380.79 @ Amazon Canada 
-**CPU Cooler** | [Corsair iCUE H150i ELITE CAPELLIX 75 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/8jFKHx/corsair-icue-h150i-elite-capellix-75-cfm-liquid-cpu-cooler-cw-9060048-ww) | $268.79 @ Amazon Canada 
-**Motherboard** | [Gigabyte X570 GAMING X ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/LJxbt6/gigabyte-x570-gaming-x-atx-am4-motherboard-x570-gaming-x) | $323.81 @ Amazon Canada 
-**Memory** | [Crucial Ballistix 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory](https://ca.pcpartpicker.com/product/KkqBD3/crucial-ballistix-32-gb-2-x-16-gb-ddr4-3600-cl16-memory-bl2k16g36c16u4b) | $303.79 @ Amazon Canada 
-**Storage** | [Sabrent Rocket 4.0 1 TB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/fVYQzy/sabrent-rocket-40-1-tb-m2-2280-solid-state-drive-sb-rocket-nvme4-1tb) | $175.83 @ Amazon Canada 
-**Storage** | [Western Digital Blue 6 TB 3.5" 5400RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Z2HRsY/western-digital-blue-6-tb-35-5400rpm-internal-hard-drive-wd60ezaz) | $139.99 @ Western Digital 
+**CPU** | [AMD Ryzen 7 5800X 3.8 GHz 8-Core Processor](https://ca.pcpartpicker.com/product/qtvqqs/amd-ryzen-7-5800x-38-ghz-8-core-processor-100-100000063wof) | $380.79 @ Amazon Canada
+**CPU Cooler** | [Corsair iCUE H150i ELITE CAPELLIX 75 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/8jFKHx/corsair-icue-h150i-elite-capellix-75-cfm-liquid-cpu-cooler-cw-9060048-ww) | $268.79 @ Amazon Canada
+**Motherboard** | [Gigabyte X570 GAMING X ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/LJxbt6/gigabyte-x570-gaming-x-atx-am4-motherboard-x570-gaming-x) | $323.81 @ Amazon Canada
+**Memory** | [Crucial Ballistix 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory](https://ca.pcpartpicker.com/product/KkqBD3/crucial-ballistix-32-gb-2-x-16-gb-ddr4-3600-cl16-memory-bl2k16g36c16u4b) | $303.79 @ Amazon Canada
+**Storage** | [Sabrent Rocket 4.0 1 TB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/fVYQzy/sabrent-rocket-40-1-tb-m2-2280-solid-state-drive-sb-rocket-nvme4-1tb) | $175.83 @ Amazon Canada
+**Storage** | [Western Digital Blue 6 TB 3.5" 5400RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Z2HRsY/western-digital-blue-6-tb-35-5400rpm-internal-hard-drive-wd60ezaz) | $139.99 @ Western Digital
 **Video Card** | [Asus GeForce RTX 2080 SUPER 8 GB STRIX GAMING Video Card](https://ca.pcpartpicker.com/product/2jcRsY/asus-geforce-rtx-2080-super-8-gb-strix-gaming-video-card-rog-strix-rtx2080s-8g-gaming) |-
-**Case** | [Phanteks Enthoo Pro 2 ATX Full Tower Case](https://ca.pcpartpicker.com/product/gQWBD3/phanteks-enthoo-pro-2-atx-full-tower-case-ph-es620ptg_dbk01) | $311.18 @ Newegg Canada 
-**Power Supply** | [be quiet! Pure Power 11 FM 750 750 W 80+ Gold Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/kB4Ycf/be-quiet-pure-power-11-fm-750-w-80-gold-certified-fully-modular-atx-power-supply-bn672) | $247.37 @ Amazon Canada 
-**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo 
+**Case** | [Phanteks Enthoo Pro 2 ATX Full Tower Case](https://ca.pcpartpicker.com/product/gQWBD3/phanteks-enthoo-pro-2-atx-full-tower-case-ph-es620ptg_dbk01) | $311.18 @ Newegg Canada
+**Power Supply** | [be quiet! Pure Power 11 FM 750 750 W 80+ Gold Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/kB4Ycf/be-quiet-pure-power-11-fm-750-w-80-gold-certified-fully-modular-atx-power-supply-bn672) | $247.37 @ Amazon Canada
+**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo
  | *Prices include shipping, taxes, rebates, and discounts* |
  | **Total** | **$2296.59**
