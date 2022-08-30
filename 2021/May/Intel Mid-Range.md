@@ -2,15 +2,15 @@
 
 Type|Item|Price
 :----|:----|:----
-**CPU** | [Intel Core i7-10700K 3.8 GHz 8-Core Processor](https://ca.pcpartpicker.com/product/yhxbt6/intel-core-i7-10700k-38-ghz-8-core-processor-bx8070110700k) | $463.96 @ Vuugo 
-**CPU Cooler** | [Cooler Master MasterLiquid ML240L RGB 66.7 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/RcdFf7/cooler-master-masterliquid-ml240l-rgb-667-cfm-liquid-cpu-cooler-mlw-d24m-a20pc-r1) | $115.68 @ Vuugo 
-**Motherboard** | [ASRock Z590 Pro4 ATX LGA1200 Motherboard](https://ca.pcpartpicker.com/product/GhqPxr/asrock-z590-pro4-atx-lga1200-motherboard-z590-pro4) | $213.34 @ Amazon Canada 
-**Memory** | [Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/VNJtt6/corsair-16-gb-2-x-8-gb-ddr4-3600-memory-cmk16gx4m2d3600c18) | $87.34 @ Amazon Canada 
-**Storage** | [Western Digital Black SN750 500 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/KTQG3C/western-digital-wd_black-sn750-500-gb-m2-2280-nvme-solid-state-drive-wds500g3x0c) | $95.34 @ Newegg Canada 
-**Storage** | [Western Digital Caviar Blue 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/MwW9TW/western-digital-internal-hard-drive-wd10ezex) | $49.99 @ Western Digital 
+**CPU** | [Intel Core i7-10700K 3.8 GHz 8-Core Processor](https://ca.pcpartpicker.com/product/yhxbt6/intel-core-i7-10700k-38-ghz-8-core-processor-bx8070110700k) | $463.96 @ Vuugo
+**CPU Cooler** | [Cooler Master MasterLiquid ML240L RGB 66.7 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/RcdFf7/cooler-master-masterliquid-ml240l-rgb-667-cfm-liquid-cpu-cooler-mlw-d24m-a20pc-r1) | $115.68 @ Vuugo
+**Motherboard** | [ASRock Z590 Pro4 ATX LGA1200 Motherboard](https://ca.pcpartpicker.com/product/GhqPxr/asrock-z590-pro4-atx-lga1200-motherboard-z590-pro4) | $213.34 @ Amazon Canada
+**Memory** | [Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/VNJtt6/corsair-16-gb-2-x-8-gb-ddr4-3600-memory-cmk16gx4m2d3600c18) | $87.34 @ Amazon Canada
+**Storage** | [Western Digital Black SN750 500 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/KTQG3C/western-digital-wd_black-sn750-500-gb-m2-2280-nvme-solid-state-drive-wds500g3x0c) | $95.34 @ Newegg Canada
+**Storage** | [Western Digital Caviar Blue 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/MwW9TW/western-digital-internal-hard-drive-wd10ezex) | $49.99 @ Western Digital
 **Video Card** | [AMD Radeon RX 6800 XT 16 GB Video Card](https://ca.pcpartpicker.com/product/m8Tp99/amd-radeon-rx-6800-xt-16-gb-video-card-100-438370) |-
-**Case** | [Lian Li PC-O11 Dynamic ATX Full Tower Case](https://ca.pcpartpicker.com/product/Hwkj4D/lian-li-pc-o11dx-atx-full-tower-case-pc-o11dx) | $190.39 @ Memory Express 
-**Power Supply** | [SeaSonic FOCUS Plus 650 Gold 650 W 80+ Gold Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/WrNypg/seasonic-focus-plus-gold-650w-80-gold-certified-fully-modular-atx-power-supply-ssr-650fx) | $212.79 @ Amazon Canada 
-**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo 
+**Case** | [Lian Li PC-O11 Dynamic ATX Full Tower Case](https://ca.pcpartpicker.com/product/Hwkj4D/lian-li-pc-o11dx-atx-full-tower-case-pc-o11dx) | $190.39 @ Memory Express
+**Power Supply** | [SeaSonic FOCUS Plus 650 Gold 650 W 80+ Gold Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/WrNypg/seasonic-focus-plus-gold-650w-80-gold-certified-fully-modular-atx-power-supply-ssr-650fx) | $212.79 @ Amazon Canada
+**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo
  | *Prices include shipping, taxes, rebates, and discounts* |
  | **Total** | **$1573.87**
