@@ -1,16 +1,20 @@
+# September 2021 - Intel Mid-Range
+
 [PCPartPicker Part List](https://ca.pcpartpicker.com/list/G4888r)
 
-Type|Item|Price
-:----|:----|:----
-**CPU** | [Intel Core i7-11700K 3.6 GHz 8-Core Processor](https://ca.pcpartpicker.com/product/VW3gXL/intel-core-i7-11700k-36-ghz-8-core-processor-bx8070811700k) | $457.93 @ Amazon Canada
-**CPU Cooler** | [Enermax Liqmax III 240 ARGB 72.1 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/qxQfrH/enermax-liqmax-iii-240-argb-721-cfm-liquid-cpu-cooler-elc-lmt240-argb) | $157.77 @ Newegg Canada
-**Motherboard** | [ASRock Z590M Pro4 Micro ATX LGA1200 Motherboard](https://ca.pcpartpicker.com/product/3w6p99/asrock-z590m-pro4-micro-atx-lga1200-motherboard-z590m-pro4) | $234.55 @ Amazon Canada
-**Memory** | [Silicon Power XPOWER Turbine 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/TsmFf7/silicon-power-xpower-turbine-16-gb-2-x-8-gb-ddr4-3600-cl18-memory-sp016gxlzu360bda) | $81.74 @ Amazon Canada
-**Storage** | [Corsair MP600 Force Series Gen4 500 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/nLPgXL/corsair-mp600-force-series-gen4-500-gb-m2-2280-nvme-solid-state-drive-cssd-f500gbmp600) | $383.43 @ Amazon Canada
-**Storage** | [Western Digital Blue 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Yrdqqs/western-digital-blue-1-tb-35-7200rpm-internal-hard-drive-wdbh2d0010hnc-nrsn) | $72.79 @ Best Buy Canada
-**Video Card** | [AMD Radeon RX 6800 XT 16 GB Video Card](https://ca.pcpartpicker.com/product/m8Tp99/amd-radeon-rx-6800-xt-16-gb-video-card-100-438370) |-
-**Case** | [Lian Li PC-O11 Dynamic ATX Full Tower Case](https://ca.pcpartpicker.com/product/Hwkj4D/lian-li-pc-o11dx-atx-full-tower-case-pc-o11dx) | $190.39 @ Memory Express
-**Power Supply** | [EVGA SuperNOVA G6 650 W 80+ Gold Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/gnGbt6/evga-supernova-g6-650-w-80-gold-certified-fully-modular-atx-power-supply-220-g6-0650-x1) | $136.78 @ Newegg Canada
-**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo
+Type|Item|Price|Print Price|"Street" Price
+:----|:----|:----|:----|:----
+**CPU** | [Intel Core i7-11700K 3.6 GHz 8-Core Processor](https://ca.pcpartpicker.com/product/VW3gXL/intel-core-i7-11700k-36-ghz-8-core-processor-bx8070811700k) | $457.93 @ Amazon Canada | $390.00 |-
+**CPU Cooler** | [Enermax Liqmax III 240 ARGB 72.1 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/qxQfrH/enermax-liqmax-iii-240-argb-721-cfm-liquid-cpu-cooler-elc-lmt240-argb) | $157.77 @ Newegg Canada | $70.00 |-
+**Motherboard** | [ASRock Z590M Pro4 Micro ATX LGA1200 Motherboard](https://ca.pcpartpicker.com/product/3w6p99/asrock-z590m-pro4-micro-atx-lga1200-motherboard-z590m-pro4) | $234.55 @ Amazon Canada | $187.00 |-
+**Memory** | [Silicon Power XPOWER Turbine 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/TsmFf7/silicon-power-xpower-turbine-16-gb-2-x-8-gb-ddr4-3600-cl18-memory-sp016gxlzu360bda) | $81.74 @ Amazon Canada | $85.00 |-
+**Storage** | [Corsair MP600 Force Series Gen4 500 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/nLPgXL/corsair-mp600-force-series-gen4-500-gb-m2-2280-nvme-solid-state-drive-cssd-f500gbmp600) | $383.43 @ Amazon Canada | $100.00 |-
+**Storage** | [Western Digital Blue 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Yrdqqs/western-digital-blue-1-tb-35-7200rpm-internal-hard-drive-wdbh2d0010hnc-nrsn) | $72.79 @ Best Buy Canada | $45.00 |-
+**Video Card** | [AMD Radeon RX 6800 XT 16 GB Video Card](https://ca.pcpartpicker.com/product/m8Tp99/amd-radeon-rx-6800-xt-16-gb-video-card-100-438370) |- | $650.00 | $1300.00
+**Case** | [Lian Li PC-O11 Dynamic ATX Full Tower Case](https://ca.pcpartpicker.com/product/Hwkj4D/lian-li-pc-o11dx-atx-full-tower-case-pc-o11dx) | $190.39 @ Memory Express | $150.00 |-
+**Power Supply** | [EVGA SuperNOVA G6 650 W 80+ Gold Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/gnGbt6/evga-supernova-g6-650-w-80-gold-certified-fully-modular-atx-power-supply-220-g6-0650-x1) | $136.78 @ Newegg Canada | $82.00 |-
+**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo | $32.00 |-
  | *Prices include shipping, taxes, rebates, and discounts* |
  | **Total** | **$1860.42**
+ | **Print Total** | **$1791.00**
+ | **"Street" Total** | **$2441.00**

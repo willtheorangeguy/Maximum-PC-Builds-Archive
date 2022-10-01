@@ -1,16 +1,20 @@
+# June 2021 - AMD Turbo
+
 [PCPartPicker Part List](https://ca.pcpartpicker.com/list/bjfn9r)
 
-Type|Item|Price
-:----|:----|:----
-**CPU** | [AMD Ryzen 7 5800X 3.8 GHz 8-Core Processor](https://ca.pcpartpicker.com/product/qtvqqs/amd-ryzen-7-5800x-38-ghz-8-core-processor-100-100000063wof) | $380.79 @ Amazon Canada
-**CPU Cooler** | [EK EK-AIO Basic 77 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/znH7YJ/ek-ek-aio-basic-360-77-cfm-liquid-cpu-cooler-ek-aio-basic-360) | $311.23 @ Amazon Canada
-**Motherboard** | [ASRock X570 Steel Legend WiFi ax ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/QVn8TW/asrock-x570-steel-legend-wifi-ax-atx-am4-motherboard-x570-steel-legend-wifi-ax) | $389.29 @ Amazon Canada
-**Memory** | [TEAMGROUP T-FORCE DARK Za 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/sfxbt6/teamgroup-t-force-dark-za-32-gb-2-x-16-gb-ddr4-3600-cl18-memory-tdzad432g3600hc18jdc01) | $155.58 @ Newegg Canada
-**Storage** | [Sabrent Rocket 4 Plus 1 TB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/dpyqqs/sabrent-rocket-4-plus-1-tb-m2-2280-nvme-solid-state-drive-sb-rkt4p-1tb) | $218.39 @ Amazon Canada
-**Storage** | [Western Digital Blue 6 TB 3.5" 5400RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Z2HRsY/western-digital-blue-6-tb-35-5400rpm-internal-hard-drive-wd60ezaz) | $139.99 @ Western Digital
-**Video Card** | [NVIDIA GeForce RTX 3080 10GB 10 GB Founders Edition Video Card](https://ca.pcpartpicker.com/product/RnDkcf/nvidia-geforce-rtx-3080-10-gb-founders-edition-video-card-9001g1332530000) |-
-**Case** | [Phanteks Enthoo Pro 2 ATX Full Tower Case](https://ca.pcpartpicker.com/product/gQWBD3/phanteks-enthoo-pro-2-atx-full-tower-case-ph-es620ptg_dbk01) | $311.18 @ Newegg Canada
-**Power Supply** | [Phanteks AMP 750 W 80+ Gold Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/fq4BD3/phanteks-amp-750-w-80-gold-certified-fully-modular-atx-power-supply-ph-p750g_us01) | $165.93 @ Amazon Canada
-**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo
+Type|Item|Price|Print Price|"Street" Price
+:----|:----|:----|:----|:----
+**CPU** | [AMD Ryzen 7 5800X 3.8 GHz 8-Core Processor](https://ca.pcpartpicker.com/product/qtvqqs/amd-ryzen-7-5800x-38-ghz-8-core-processor-100-100000063wof) | $380.79 @ Amazon Canada | $440.00 |-
+**CPU Cooler** | [EK EK-AIO Basic 77 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/znH7YJ/ek-ek-aio-basic-360-77-cfm-liquid-cpu-cooler-ek-aio-basic-360) | $311.23 @ Amazon Canada | $190.00 |-
+**Motherboard** | [ASRock X570 Steel Legend WiFi ax ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/QVn8TW/asrock-x570-steel-legend-wifi-ax-atx-am4-motherboard-x570-steel-legend-wifi-ax) | $389.29 @ Amazon Canada | $190.00 |-
+**Memory** | [TEAMGROUP T-FORCE DARK Za 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/sfxbt6/teamgroup-t-force-dark-za-32-gb-2-x-16-gb-ddr4-3600-cl18-memory-tdzad432g3600hc18jdc01) | $155.58 @ Newegg Canada | $160.00 |-
+**Storage** | [Sabrent Rocket 4 Plus 1 TB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/dpyqqs/sabrent-rocket-4-plus-1-tb-m2-2280-nvme-solid-state-drive-sb-rkt4p-1tb) | $218.39 @ Amazon Canada | $200.00 |-
+**Storage** | [Western Digital Blue 6 TB 3.5" 5400RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Z2HRsY/western-digital-blue-6-tb-35-5400rpm-internal-hard-drive-wd60ezaz) | $139.99 @ Western Digital | $124.00 |-
+**Video Card** | [NVIDIA GeForce RTX 3080 10GB 10 GB Founders Edition Video Card](https://ca.pcpartpicker.com/product/RnDkcf/nvidia-geforce-rtx-3080-10-gb-founders-edition-video-card-9001g1332530000) |- | $700.00 | $2250.00
+**Case** | [Phanteks Enthoo Pro 2 ATX Full Tower Case](https://ca.pcpartpicker.com/product/gQWBD3/phanteks-enthoo-pro-2-atx-full-tower-case-ph-es620ptg_dbk01) | $311.18 @ Newegg Canada | $140.00 |-
+**Power Supply** | [Phanteks AMP 750 W 80+ Gold Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/fq4BD3/phanteks-amp-750-w-80-gold-certified-fully-modular-atx-power-supply-ph-p750g_us01) | $165.93 @ Amazon Canada | $110.00 |-
+**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo | $32.00 |-
  | *Prices include shipping, taxes, rebates, and discounts* |
  | **Total** | **$2217.42**
+ | **Print Total** | **$2286.00**
+ | **"Street" Total** | **$3836.00**
