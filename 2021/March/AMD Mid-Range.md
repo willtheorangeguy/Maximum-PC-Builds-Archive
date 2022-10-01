@@ -1,16 +1,19 @@
+# March 2021 - AMD Mid-Range
+
 [PCPartPicker Part List](https://ca.pcpartpicker.com/list/w8xRwc)
 
-Type|Item|Price
-:----|:----|:----
-**CPU** | [AMD Ryzen 5 3600 3.6 GHz 6-Core Processor](https://ca.pcpartpicker.com/product/9nm323/amd-ryzen-5-3600-36-thz-6-core-processor-100-100000031box) | $223.99 @ Best Buy Canada
-**CPU Cooler** | [Corsair H100x 57.2 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/8mJtt6/corsair-h100x-572-cfm-liquid-cpu-cooler-cw-9060040-ww) | $111.99 @ Memory Express
-**Motherboard** | [Asus TUF GAMING X570-PLUS ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/whMTwP/asus-tuf-gaming-x570-plus-atx-am4-motherboard-tuf-gaming-x570-plus) | $417.75 @ Amazon Canada
-**Memory** | [Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/VNJtt6/corsair-16-gb-2-x-8-gb-ddr4-3600-memory-cmk16gx4m2d3600c18) | $87.34 @ Amazon Canada
-**Storage** | [Sabrent Rocket 4.0 500 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/PMbCmG/sabrent-rocket-40-500-gb-m2-2280-nvme-solid-state-drive-sb-rocket-nvme4-500) | $117.59 @ Amazon Canada
-**Storage** | [Seagate BarraCuda 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010) | $61.66 @ Vuugo
-**Video Card** | [MSI GeForce RTX 2060 6 GB VENTUS XS OC Video Card](https://ca.pcpartpicker.com/product/QNn8TW/msi-geforce-rtx-2060-6-gb-ventus-xs-oc-video-card-geforce-rtx-2060-ventus-xs-6g-oc) | $818.81 @ Amazon Canada
-**Case** | [Lian Li PC-O11 Dynamic ATX Full Tower Case](https://ca.pcpartpicker.com/product/Hwkj4D/lian-li-pc-o11dx-atx-full-tower-case-pc-o11dx) | $190.39 @ Memory Express
-**Power Supply** | [Corsair RM550x (2018) 550 W 80+ Gold Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/bqVD4D/corsair-rmx-2018-550w-80-gold-certified-fully-modular-atx-power-supply-cp-9020177-na) | $151.19 @ Corsair
-**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo
+Type|Item|Price|Print Price
+:----|:----|:----|:----
+**CPU** | [AMD Ryzen 5 3600 3.6 GHz 6-Core Processor](https://ca.pcpartpicker.com/product/9nm323/amd-ryzen-5-3600-36-thz-6-core-processor-100-100000031box) | $223.99 @ Best Buy Canada | $200.00
+**CPU Cooler** | [Corsair H100x 57.2 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/8mJtt6/corsair-h100x-572-cfm-liquid-cpu-cooler-cw-9060040-ww) | $111.99 @ Memory Express | $100.00
+**Motherboard** | [Asus TUF GAMING X570-PLUS ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/whMTwP/asus-tuf-gaming-x570-plus-atx-am4-motherboard-tuf-gaming-x570-plus) | $417.75 @ Amazon Canada | $170.00
+**Memory** | [Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/VNJtt6/corsair-16-gb-2-x-8-gb-ddr4-3600-memory-cmk16gx4m2d3600c18) | $87.34 @ Amazon Canada | $83.00
+**Storage** | [Sabrent Rocket 4.0 500 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/PMbCmG/sabrent-rocket-40-500-gb-m2-2280-nvme-solid-state-drive-sb-rocket-nvme4-500) | $117.59 @ Amazon Canada | $90.00
+**Storage** | [Seagate BarraCuda 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010) | $61.66 @ Vuugo | $40.00
+**Video Card** | [MSI GeForce RTX 2060 6 GB VENTUS XS OC Video Card](https://ca.pcpartpicker.com/product/QNn8TW/msi-geforce-rtx-2060-6-gb-ventus-xs-oc-video-card-geforce-rtx-2060-ventus-xs-6g-oc) | $818.81 @ Amazon Canada | $650.00
+**Case** | [Lian Li PC-O11 Dynamic ATX Full Tower Case](https://ca.pcpartpicker.com/product/Hwkj4D/lian-li-pc-o11dx-atx-full-tower-case-pc-o11dx) | $190.39 @ Memory Express | $150.00
+**Power Supply** | [Corsair RM550x (2018) 550 W 80+ Gold Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/bqVD4D/corsair-rmx-2018-550w-80-gold-certified-fully-modular-atx-power-supply-cp-9020177-na) | $151.19 @ Corsair | $100.00
+**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo | $25.00
  | *Prices include shipping, taxes, rebates, and discounts* |
  | **Total** | **$2325.75**
+ | **Print Total** | **$1608.00**
