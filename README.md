@@ -167,7 +167,7 @@ This software uses the following open source packages, projects, services or web
 <table>
   <tr>
     <th align="center"><img src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F2107379463%2Ficons%2Fmonochrome_large.png?w=240&h=240&s=8a19bbc158996d098e2fb18310ba7f33" width="150" height="150" alt="GitHub"/></th>
-    <th align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Future_plc.svg/768px-Future_plc.svg.png" width="150" height="150" alt="GitHub"/></th>
+    <th align="center"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHsk5yjnJT2uQ/company-logo_200_200/0/1519871740270?e=2147483647&v=beta&t=JmMj1O2MWS0QeZfa5_5FnFC9YAyRVSIBPd-Eq6K96JU" width="150" height="150" alt="GitHub"/></th>
     <th align="center"><img src="https://ca.pcpartpicker.com/static/forever/img/pcpp-icon.svg" width="150" height="150" alt="PCPP"/></th>
     <th align="center"><img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60ae96c09f902b0001b4569c/0x0.png" width="150" height="150" alt="Bunny Fonts"/></th>
   </tr>
