@@ -1,15 +1,18 @@
+# March 2021 - AMD Budget
+
 [PCPartPicker Part List](https://ca.pcpartpicker.com/list/DVfn9r)
 
-Type|Item|Price
-:----|:----|:----
-**CPU** | [AMD Athlon 3000G (14nm) 3.5 GHz Dual-Core Processor](https://ca.pcpartpicker.com/product/664BD3/amd-athlon-3000g-35-ghz-dual-core-processor-yd3000c6fhbox) | $134.39 @ Amazon Canada
-**Motherboard** | [ASRock B450M-HDV R4.0 Micro ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/RD97YJ/asrock-b450m-hdv-r40-micro-atx-am4-motherboard-b450m-hdv-r40) | $130.42 @ Amazon Canada
-**Memory** | [OLOy MD4U083216BJDA 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory](https://ca.pcpartpicker.com/product/fByqqs/oloy-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-md4u083216bjda) | $114.90 @ Newegg Canada
-**Storage** | [Samsung 980 Pro 250 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/MBVG3C/samsung-980-pro-250-gb-m2-2280-nvme-solid-state-drive-mz-v8p250bam) | $111.99 @ Amazon Canada
-**Storage** | [Seagate BarraCuda 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010) | $61.66 @ Vuugo
-**Video Card** | [Gigabyte GeForce GTX 1660 6 GB OC Video Card](https://ca.pcpartpicker.com/product/NHdxFT/gigabyte-geforce-gtx-1660-6-gb-oc-video-card-gv-n1660oc-6gd) | $503.99 @ Amazon Canada
-**Case** | [Corsair 4000D Airflow ATX Mid Tower Case](https://ca.pcpartpicker.com/product/bCYQzy/corsair-4000d-airflow-atx-mid-tower-case-cc-9011200-ww) | $150.64 @ Vuugo
-**Power Supply** | [EVGA BR 450 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/xDMwrH/evga-br-450w-80-bronze-certified-atx-power-supply-100-br-0450-k1) | $72.79 @ Canada Computers
-**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo
+Type|Item|Price|Print Price
+:----|:----|:----|:----
+**CPU** | [AMD Athlon 3000G (14nm) 3.5 GHz Dual-Core Processor](https://ca.pcpartpicker.com/product/664BD3/amd-athlon-3000g-35-ghz-dual-core-processor-yd3000c6fhbox) | $134.39 @ Amazon Canada | $94.00
+**Motherboard** | [ASRock B450M-HDV R4.0 Micro ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/RD97YJ/asrock-b450m-hdv-r40-micro-atx-am4-motherboard-b450m-hdv-r40) | $130.42 @ Amazon Canada | $68.00
+**Memory** | [OLOy MD4U083216BJDA 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory](https://ca.pcpartpicker.com/product/fByqqs/oloy-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-md4u083216bjda) | $114.90 @ Newegg Canada | $66.00
+**Storage** | [Samsung 980 Pro 250 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/MBVG3C/samsung-980-pro-250-gb-m2-2280-nvme-solid-state-drive-mz-v8p250bam) | $111.99 @ Amazon Canada | $90.00
+**Storage** | [Seagate BarraCuda 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010) | $61.66 @ Vuugo | $40.00
+**Video Card** | [Gigabyte GeForce GTX 1660 6 GB OC Video Card](https://ca.pcpartpicker.com/product/NHdxFT/gigabyte-geforce-gtx-1660-6-gb-oc-video-card-gv-n1660oc-6gd) | $503.99 @ Amazon Canada | $330.00
+**Case** | [Corsair 4000D Airflow ATX Mid Tower Case](https://ca.pcpartpicker.com/product/bCYQzy/corsair-4000d-airflow-atx-mid-tower-case-cc-9011200-ww) | $150.64 @ Vuugo | $95.00
+**Power Supply** | [EVGA BR 450 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/xDMwrH/evga-br-450w-80-bronze-certified-atx-power-supply-100-br-0450-k1) | $72.79 @ Canada Computers | $42.00
+**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo | $25.00
  | *Prices include shipping, taxes, rebates, and discounts* |
  | **Total** | **$1425.82**
+ | **Print Total** | **$850.00**
