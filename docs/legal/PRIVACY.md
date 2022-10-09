@@ -34,7 +34,14 @@ For the purposes of this Privacy Policy:
 
 ### Personal Data
 
-While using Our Service, no data is held by the website. We do not use any cookies, or any other means of collecting personal data.
+While using Our Service, no personal data is collected by the application.
+
+### Analytical Data
+
+While using Our Service, analytics are tracked via both Google Analytics and Simple Analytics, who's privacy policies are linked below:
+
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [Simple Analytics Privacy Policy](https://simpleanalytics.com/privacy-policy)
 
 ## Disclosure of Your Personal Data
 
