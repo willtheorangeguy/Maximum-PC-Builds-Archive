@@ -34,14 +34,15 @@ For the purposes of this Privacy Policy:
 
 ### Personal Data
 
-While using Our Service, no personal data is collected by the application.
+While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+
+- Analytical Data
 
 ### Analytical Data
 
-While using Our Service, analytics are tracked via both Google Analytics and Simple Analytics, who's privacy policies are linked below:
+We use [Simple Analytics](https://simpleanalytics.com/?referral=willtheorangeguy) to see who uses our website. Simple Analytics is privacy-focused, and they only "collect information that is necessary to show ... simple analytics, but unlike other analytics tools, [do not] collect more than absolutely necessary." They do not collect cookies, and are GDPR friendly.
 
-- [Google Privacy Policy](https://policies.google.com/privacy)
-- [Simple Analytics Privacy Policy](https://simpleanalytics.com/privacy-policy)
+Their privacy policy is available [here](https://simpleanalytics.com/privacy-policy).
 
 ## Disclosure of Your Personal Data
 
