@@ -148,6 +148,13 @@ Each of the issues has its builds listed in three different places, with either 
 |September 2021|Intel Mid-Range|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/wsgHWZ)|[Markdown](2021/September/Intel%20Mid-Range.md)|[Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/september/)|
 |September 2021|AMD Turbo|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/NMgHWZ)|[Markdown](/2021/September/AMD%20Turbo.md)|[Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/september/)|
 |September 2021|Intel Turbo|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/yMgHWZ)|[Markdown](/2021/September/Intel%20Turbo.md)|[Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/september/)|
+||||||
+|October 2021|AMD Budget|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/H9r8ZL)|[Markdown](/2021/October/AMD%20Budget.md)|[Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)|
+|October 2021|Intel Budget|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/KBjMFT)|[Markdown](/2021/October/Intel%20Budget.md)|[Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)|
+|October 2021|AMD Mid-Range|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/GLs7wP)|[Markdown](/2021/October/AMD%20Mid-Range.md)|[Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)|
+|October 2021|Intel Mid-Range|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/wgbYXL)|[Markdown](2021/October/Intel%20Mid-Range.md)|[Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)|
+|October 2021|AMD Turbo|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/VBjMFT)|[Markdown](/2021/October/AMD%20Turbo.md)|[Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)|
+|October 2021|Intel Turbo|[PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/F4s7wP)|[Markdown](/2021/October/Intel%20Turbo.md)|[Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)|
 
 ## Contributing
 
