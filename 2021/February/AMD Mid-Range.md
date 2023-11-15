@@ -2,18 +2,18 @@
 
 [PCPartPicker Part List](https://ca.pcpartpicker.com/list/N2WzXy)
 
-Type|Item|Price|Print Price
-:----|:----|:----|:----
-**CPU** | [AMD Ryzen 5 3600 3.6 GHz 6-Core Processor](https://ca.pcpartpicker.com/product/9nm323/amd-ryzen-5-3600-36-thz-6-core-processor-100-100000031box) | $223.99 @ Best Buy Canada | $200.00
-**CPU Cooler** | [Corsair H60 54 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/Vwdqqs/corsair-h60-54-cfm-liquid-cpu-cooler-h60-cw-9060007-ww) | $258.70 @ Amazon Canada | $50.00
-**Motherboard** | [Asus TUF GAMING X570-PLUS ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/whMTwP/asus-tuf-gaming-x570-plus-atx-am4-motherboard-tuf-gaming-x570-plus) | $417.75 @ Amazon Canada | $165.00
-**Memory** | [G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory](https://ca.pcpartpicker.com/product/jBZzK8/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c16d-16gvkc) | $98.55 @ Memory Express | $69.00
-**Storage** | [Sabrent Rocket 4.0 500 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/PMbCmG/sabrent-rocket-40-500-gb-m2-2280-nvme-solid-state-drive-sb-rocket-nvme4-500) | $117.59 @ Amazon Canada | $90.00
-**Storage** | [Western Digital RE4 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/KzTmP6/western-digital-internal-hard-drive-wd1003fbyx) |- | $40.00
-**Video Card** | [MSI Radeon RX 5700 8 GB GAMING X Video Card](https://ca.pcpartpicker.com/product/nd9tt6/msi-radeon-rx-5700-8-gb-gaming-x-video-card-radeon-rx-5700-gaming-x) |- | $394.00
-**Case** | [Lian Li PC-O11 Dynamic ATX Full Tower Case](https://ca.pcpartpicker.com/product/Hwkj4D/lian-li-pc-o11dx-atx-full-tower-case-pc-o11dx) | $190.39 @ Memory Express | $140.00
-**Power Supply** | [Corsair CX650F 650 W 80+ Bronze Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/Rz2bt6/corsair-cxf-650-w-80-bronze-certified-fully-modular-atx-power-supply-cp-9020217-na) | $91.17 @ Vuugo | $70.00
-**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo | $25.00
- | *Prices include shipping, taxes, rebates, and discounts* |
- | **Total** | **$1543.18**
- | **Print Total** | **$1243.00**
+| Type                                                     | Item                                                                                                                                                                                                      | Price                     | Print Price |
+| :------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------ | :---------- |
+| **CPU**                                                  | [AMD Ryzen 5 3600 3.6 GHz 6-Core Processor](https://ca.pcpartpicker.com/product/9nm323/amd-ryzen-5-3600-36-thz-6-core-processor-100-100000031box)                                                         | $223.99 @ Best Buy Canada | $200.00     |
+| **CPU Cooler**                                           | [Corsair H60 54 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/Vwdqqs/corsair-h60-54-cfm-liquid-cpu-cooler-h60-cw-9060007-ww)                                                                 | $258.70 @ Amazon Canada   | $50.00      |
+| **Motherboard**                                          | [Asus TUF GAMING X570-PLUS ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/whMTwP/asus-tuf-gaming-x570-plus-atx-am4-motherboard-tuf-gaming-x570-plus)                                            | $417.75 @ Amazon Canada   | $165.00     |
+| **Memory**                                               | [G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory](https://ca.pcpartpicker.com/product/jBZzK8/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c16d-16gvkc)                                | $98.55 @ Memory Express   | $69.00      |
+| **Storage**                                              | [Sabrent Rocket 4.0 500 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/PMbCmG/sabrent-rocket-40-500-gb-m2-2280-nvme-solid-state-drive-sb-rocket-nvme4-500)                       | $117.59 @ Amazon Canada   | $90.00      |
+| **Storage**                                              | [Western Digital RE4 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/KzTmP6/western-digital-internal-hard-drive-wd1003fbyx)                                                    | -                         | $40.00      |
+| **Video Card**                                           | [MSI Radeon RX 5700 8 GB GAMING X Video Card](https://ca.pcpartpicker.com/product/nd9tt6/msi-radeon-rx-5700-8-gb-gaming-x-video-card-radeon-rx-5700-gaming-x)                                             | -                         | $394.00     |
+| **Case**                                                 | [Lian Li PC-O11 Dynamic ATX Full Tower Case](https://ca.pcpartpicker.com/product/Hwkj4D/lian-li-pc-o11dx-atx-full-tower-case-pc-o11dx)                                                                    | $190.39 @ Memory Express  | $140.00     |
+| **Power Supply**                                         | [Corsair CX650F 650 W 80+ Bronze Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/Rz2bt6/corsair-cxf-650-w-80-bronze-certified-fully-modular-atx-power-supply-cp-9020217-na) | $91.17 @ Vuugo            | $70.00      |
+| **Operating System**                                     | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140)                                                                                                  | $145.04 @ Vuugo           | $25.00      |
+| _Prices include shipping, taxes, rebates, and discounts_ |
+| **Total**                                                | **$1543.18**                                                                                                                                                                                              |
+| **Print Total**                                          | **$1243.00**                                                                                                                                                                                              |
