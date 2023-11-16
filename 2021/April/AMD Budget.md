@@ -2,17 +2,17 @@
 
 [PCPartPicker Part List](https://ca.pcpartpicker.com/list/dHrRwc)
 
-Type|Item|Price|Print Price
-:----|:----|:----|:----
-**CPU** | [AMD Athlon 3000G (14nm) 3.5 GHz Dual-Core Processor](https://ca.pcpartpicker.com/product/664BD3/amd-athlon-3000g-35-ghz-dual-core-processor-yd3000c6fhbox) | $134.39 @ Amazon Canada | $100.00
-**Motherboard** | [ASRock B450M-HDV R4.0 Micro ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/RD97YJ/asrock-b450m-hdv-r40-micro-atx-am4-motherboard-b450m-hdv-r40) | $130.42 @ Amazon Canada | $65.00
-**Memory** | [TEAMGROUP T-FORCE VULCAN Z 16 GB (2 x 8 GB) DDR4-3000 CL16 Memory](https://ca.pcpartpicker.com/product/6wGxFT/team-t-force-vulcan-z-16-gb-2-x-8-gb-ddr4-3000-memory-tlzgd416g3000hc16cdc01) | $85.11 @ Newegg Canada | $70.00
-**Storage** | [Samsung 980 Pro 250 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/MBVG3C/samsung-980-pro-250-gb-m2-2280-nvme-solid-state-drive-mz-v8p250bam) | $111.99 @ Amazon Canada | $90.00
-**Storage** | [Seagate BarraCuda 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010) | $61.66 @ Vuugo | $45.00
-**Video Card** | [MSI GeForce GTX 1050 Ti 4 GB GAMING X Video Card](https://ca.pcpartpicker.com/product/H97CmG/msi-geforce-gtx-1050-ti-4-gb-gaming-x-4g-video-card-gtx-1050-ti-gaming-x-4g) | $253.38 @ Newegg Canada | $210.00
-**Case** | [Corsair 4000D Airflow ATX Mid Tower Case](https://ca.pcpartpicker.com/product/bCYQzy/corsair-4000d-airflow-atx-mid-tower-case-cc-9011200-ww) | $150.64 @ Vuugo | $95.00
-**Power Supply** | [Corsair CV 450 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/hfxbt6/corsair-cv-450-w-80-bronze-certified-atx-power-supply-cp-9020209-na) | $55.99 @ Memory Express | $50.00
-**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo | $25.00
- | *Prices include shipping, taxes, rebates, and discounts* |
- | **Total** | **$1128.62**
- | **Print Total** | **$750.00**
+| Type                                                     | Item                                                                                                                                                                                         | Price                   | Print Price |
+| :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------- | :---------- |
+| **CPU**                                                  | [AMD Athlon 3000G (14nm) 3.5 GHz Dual-Core Processor](https://ca.pcpartpicker.com/product/664BD3/amd-athlon-3000g-35-ghz-dual-core-processor-yd3000c6fhbox)                                  | $134.39 @ Amazon Canada | $100.00     |
+| **Motherboard**                                          | [ASRock B450M-HDV R4.0 Micro ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/RD97YJ/asrock-b450m-hdv-r40-micro-atx-am4-motherboard-b450m-hdv-r40)                                   | $130.42 @ Amazon Canada | $65.00      |
+| **Memory**                                               | [TEAMGROUP T-FORCE VULCAN Z 16 GB (2 x 8 GB) DDR4-3000 CL16 Memory](https://ca.pcpartpicker.com/product/6wGxFT/team-t-force-vulcan-z-16-gb-2-x-8-gb-ddr4-3000-memory-tlzgd416g3000hc16cdc01) | $85.11 @ Newegg Canada  | $70.00      |
+| **Storage**                                              | [Samsung 980 Pro 250 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/MBVG3C/samsung-980-pro-250-gb-m2-2280-nvme-solid-state-drive-mz-v8p250bam)                      | $111.99 @ Amazon Canada | $90.00      |
+| **Storage**                                              | [Seagate BarraCuda 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010)                       | $61.66 @ Vuugo          | $45.00      |
+| **Video Card**                                           | [MSI GeForce GTX 1050 Ti 4 GB GAMING X Video Card](https://ca.pcpartpicker.com/product/H97CmG/msi-geforce-gtx-1050-ti-4-gb-gaming-x-4g-video-card-gtx-1050-ti-gaming-x-4g)                   | $253.38 @ Newegg Canada | $210.00     |
+| **Case**                                                 | [Corsair 4000D Airflow ATX Mid Tower Case](https://ca.pcpartpicker.com/product/bCYQzy/corsair-4000d-airflow-atx-mid-tower-case-cc-9011200-ww)                                                | $150.64 @ Vuugo         | $95.00      |
+| **Power Supply**                                         | [Corsair CV 450 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/hfxbt6/corsair-cv-450-w-80-bronze-certified-atx-power-supply-cp-9020209-na)                     | $55.99 @ Memory Express | $50.00      |
+| **Operating System**                                     | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140)                                                                                     | $145.04 @ Vuugo         | $25.00      |
+| _Prices include shipping, taxes, rebates, and discounts_ |
+| **Total**                                                | **$1128.62**                                                                                                                                                                                 |
+| **Print Total**                                          | **$750.00**                                                                                                                                                                                  |

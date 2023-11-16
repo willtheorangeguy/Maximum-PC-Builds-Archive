@@ -2,17 +2,17 @@
 
 [PCPartPicker Part List](https://ca.pcpartpicker.com/list/fnddGL)
 
-Type|Item|Price|Print Price
-:----|:----|:----|:----
-**CPU** | [AMD Ryzen 3 3100 3.6 GHz Quad-Core Processor](https://ca.pcpartpicker.com/product/ndwkcf/amd-ryzen-3-3100-36-ghz-quad-core-processor-100-100000284box) | $161.78 @ Newegg Canada | $100.00
-**Motherboard** | [Gigabyte B450M DS3H V2 Micro ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/wbBhP6/gigabyte-b450m-ds3h-v2-micro-atx-am4-motherboard-b450m-ds3h-v2) | $179.47 @ Amazon Canada | $65.00
-**Memory** | [ADATA XPG Z1 16 GB (2 x 8 GB) DDR4-3000 CL16 Memory](https://ca.pcpartpicker.com/product/6JRzK8/adata-xpg-z1-16gb-2-x-8gb-ddr4-3000-memory-ax4u300038g16-drz) |- | $55.00
-**Storage** | [Samsung 980 Pro 250 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/MBVG3C/samsung-980-pro-250-gb-m2-2280-nvme-solid-state-drive-mz-v8p250bam) | $111.99 @ Amazon Canada | $77.00
-**Storage** | [Western Digital RE4 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/KzTmP6/western-digital-internal-hard-drive-wd1003fbyx) |- | $39.00
-**Video Card** | [MSI Radeon RX 5500 XT 8 GB GAMING X Video Card](https://ca.pcpartpicker.com/product/DCDkcf/msi-radeon-rx-5500-xt-8-gb-gaming-x-video-card-rx-5500-xt-gaming-x-8g) | $1106.63 @ Amazon Canada | $210.00
-**Case** | [Corsair 4000D Airflow ATX Mid Tower Case](https://ca.pcpartpicker.com/product/bCYQzy/corsair-4000d-airflow-atx-mid-tower-case-cc-9011200-ww) | $150.64 @ Vuugo | $80.00
-**Power Supply** | [EVGA BR 450 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/xDMwrH/evga-br-450w-80-bronze-certified-atx-power-supply-100-br-0450-k1) | $72.79 @ Canada Computers | $42.00
-**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo | $25.00
- | *Prices include shipping, taxes, rebates, and discounts* |
- | **Total** | **$1928.34**
- | **Print Total** | **$693.00**
+| Type                                                     | Item                                                                                                                                                                    | Price                     | Print Price |
+| :------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------ | :---------- |
+| **CPU**                                                  | [AMD Ryzen 3 3100 3.6 GHz Quad-Core Processor](https://ca.pcpartpicker.com/product/ndwkcf/amd-ryzen-3-3100-36-ghz-quad-core-processor-100-100000284box)                 | $161.78 @ Newegg Canada   | $100.00     |
+| **Motherboard**                                          | [Gigabyte B450M DS3H V2 Micro ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/wbBhP6/gigabyte-b450m-ds3h-v2-micro-atx-am4-motherboard-b450m-ds3h-v2)           | $179.47 @ Amazon Canada   | $65.00      |
+| **Memory**                                               | [ADATA XPG Z1 16 GB (2 x 8 GB) DDR4-3000 CL16 Memory](https://ca.pcpartpicker.com/product/6JRzK8/adata-xpg-z1-16gb-2-x-8gb-ddr4-3000-memory-ax4u300038g16-drz)          | -                         | $55.00      |
+| **Storage**                                              | [Samsung 980 Pro 250 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/MBVG3C/samsung-980-pro-250-gb-m2-2280-nvme-solid-state-drive-mz-v8p250bam) | $111.99 @ Amazon Canada   | $77.00      |
+| **Storage**                                              | [Western Digital RE4 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/KzTmP6/western-digital-internal-hard-drive-wd1003fbyx)                  | -                         | $39.00      |
+| **Video Card**                                           | [MSI Radeon RX 5500 XT 8 GB GAMING X Video Card](https://ca.pcpartpicker.com/product/DCDkcf/msi-radeon-rx-5500-xt-8-gb-gaming-x-video-card-rx-5500-xt-gaming-x-8g)      | $1106.63 @ Amazon Canada  | $210.00     |
+| **Case**                                                 | [Corsair 4000D Airflow ATX Mid Tower Case](https://ca.pcpartpicker.com/product/bCYQzy/corsair-4000d-airflow-atx-mid-tower-case-cc-9011200-ww)                           | $150.64 @ Vuugo           | $80.00      |
+| **Power Supply**                                         | [EVGA BR 450 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/xDMwrH/evga-br-450w-80-bronze-certified-atx-power-supply-100-br-0450-k1)      | $72.79 @ Canada Computers | $42.00      |
+| **Operating System**                                     | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140)                                                                | $145.04 @ Vuugo           | $25.00      |
+| _Prices include shipping, taxes, rebates, and discounts_ |
+| **Total**                                                | **$1928.34**                                                                                                                                                            |
+| **Print Total**                                          | **$693.00**                                                                                                                                                             |

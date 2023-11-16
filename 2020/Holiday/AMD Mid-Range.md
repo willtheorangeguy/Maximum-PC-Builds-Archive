@@ -2,18 +2,18 @@
 
 [PCPartPicker Part List](https://ca.pcpartpicker.com/list/PhPQKp)
 
-Type|Item|Price|Print Price
-:----|:----|:----|:----
-**CPU** | [AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor](https://ca.pcpartpicker.com/product/7sFKHx/amd-ryzen-5-3600xt-38-ghz-6-core-processor-100-100000281box) | $397.32 @ Amazon Canada | $236.00
-**CPU Cooler**| Corsair A500 Dual Fan CPU Cooler|- | $53.00
-**Motherboard** | [Asus TUF GAMING X570-PLUS ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/whMTwP/asus-tuf-gaming-x570-plus-atx-am4-motherboard-tuf-gaming-x570-plus) | $417.75 @ Amazon Canada | $156.00
-**Memory** | [G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/n6RgXL/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c18d-16gvk) | $88.51 @ Amazon Canada | $54.00
-**Storage** | [Gigabyte AORUS Gen4 500 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/nPjNnQ/gigabyte-aorus-gen4-500-gb-m2-2280-nvme-solid-state-drive-gp-ag4500g) | $161.68 @ Amazon Canada | $82.00
-**Storage** | [Seagate Constellation ES 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/ZwsKHx/seagate-internal-hard-drive-st1000nm0011) | $144.66 @ Amazon Canada | $30.00
-**Video Card** | [MSI Radeon RX 5700 XT 8 GB MECH OC Video Card](https://ca.pcpartpicker.com/product/HWbCmG/msi-radeon-rx-5700-xt-8-gb-mech-oc-video-card-rx-5700-xt-mech-oc) |- | $324.00
-**Case** | [Lian Li PC-O11 Dynamic ATX Full Tower Case](https://ca.pcpartpicker.com/product/Hwkj4D/lian-li-pc-o11dx-atx-full-tower-case-pc-o11dx) | $190.39 @ Memory Express | $150.00
-**Power Supply** | [Corsair CX650 (2017) 650 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/3F2rxr/corsair-cx-2017-650w-80-bronze-certified-atx-power-supply-cp-9020122-na) | $106.40 @ Amazon Canada | $69.00
-**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $145.04 @ Vuugo | $25.00
- | *Prices include shipping, taxes, rebates, and discounts* |
- | **Total** | **$1651.75**
- | **Print Total** | **$1179.00**
+| Type                                                     | Item                                                                                                                                                                                   | Price                    | Print Price |
+| :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- | :---------- |
+| **CPU**                                                  | [AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor](https://ca.pcpartpicker.com/product/7sFKHx/amd-ryzen-5-3600xt-38-ghz-6-core-processor-100-100000281box)                                  | $397.32 @ Amazon Canada  | $236.00     |
+| **CPU Cooler**                                           | Corsair A500 Dual Fan CPU Cooler                                                                                                                                                       | -                        | $53.00      |
+| **Motherboard**                                          | [Asus TUF GAMING X570-PLUS ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/whMTwP/asus-tuf-gaming-x570-plus-atx-am4-motherboard-tuf-gaming-x570-plus)                         | $417.75 @ Amazon Canada  | $156.00     |
+| **Memory**                                               | [G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/n6RgXL/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c18d-16gvk)              | $88.51 @ Amazon Canada   | $54.00      |
+| **Storage**                                              | [Gigabyte AORUS Gen4 500 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/nPjNnQ/gigabyte-aorus-gen4-500-gb-m2-2280-nvme-solid-state-drive-gp-ag4500g)          | $161.68 @ Amazon Canada  | $82.00      |
+| **Storage**                                              | [Seagate Constellation ES 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/ZwsKHx/seagate-internal-hard-drive-st1000nm0011)                                  | $144.66 @ Amazon Canada  | $30.00      |
+| **Video Card**                                           | [MSI Radeon RX 5700 XT 8 GB MECH OC Video Card](https://ca.pcpartpicker.com/product/HWbCmG/msi-radeon-rx-5700-xt-8-gb-mech-oc-video-card-rx-5700-xt-mech-oc)                           | -                        | $324.00     |
+| **Case**                                                 | [Lian Li PC-O11 Dynamic ATX Full Tower Case](https://ca.pcpartpicker.com/product/Hwkj4D/lian-li-pc-o11dx-atx-full-tower-case-pc-o11dx)                                                 | $190.39 @ Memory Express | $150.00     |
+| **Power Supply**                                         | [Corsair CX650 (2017) 650 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/3F2rxr/corsair-cx-2017-650w-80-bronze-certified-atx-power-supply-cp-9020122-na) | $106.40 @ Amazon Canada  | $69.00      |
+| **Operating System**                                     | [Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140)                                                                               | $145.04 @ Vuugo          | $25.00      |
+| _Prices include shipping, taxes, rebates, and discounts_ |
+| **Total**                                                | **$1651.75**                                                                                                                                                                           |
+| **Print Total**                                          | **$1179.00**                                                                                                                                                                           |
