@@ -13,6 +13,7 @@ import time
 import logging
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
+from urllib.parse import urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -102,19 +103,41 @@ class PCPartPickerScraper:
                     retailer_href = retailer_link.get('href', '')
                     retailer_text = retailer_link.get_text(strip=True)
                     
-                    # Extract retailer name from URL
-                    if 'amazon' in retailer_href.lower():
-                        retailer = 'Amazon Canada'
-                    elif 'newegg' in retailer_href.lower():
-                        retailer = 'Newegg Canada'
-                    elif 'bestbuy' in retailer_href.lower():
-                        retailer = 'Best Buy Canada'
-                    elif 'vuugo' in retailer_href.lower():
-                        retailer = 'Vuugo'
-                    elif 'canadacomputers' in retailer_href.lower() or 'cc.com' in retailer_href.lower():
-                        retailer = 'Canada Computers'
-                    elif retailer_text and retailer_text.lower() not in ['buy', 'add']:
-                        retailer = retailer_text
+                    # Properly parse URL to extract domain for security
+                    try:
+                        parsed_url = urlparse(retailer_href)
+                        domain = parsed_url.netloc.lower()
+                        
+                        # Whitelist of known trusted retailer domains
+                        # This is for display purposes only, not security-sensitive
+                        trusted_retailers = {
+                            'www.amazon.ca': 'Amazon Canada',
+                            'amazon.ca': 'Amazon Canada',
+                            'www.amazon.com': 'Amazon Canada',
+                            'amazon.com': 'Amazon Canada',
+                            'www.newegg.ca': 'Newegg Canada',
+                            'newegg.ca': 'Newegg Canada',
+                            'www.newegg.com': 'Newegg Canada',
+                            'newegg.com': 'Newegg Canada',
+                            'www.bestbuy.ca': 'Best Buy Canada',
+                            'bestbuy.ca': 'Best Buy Canada',
+                            'www.bestbuy.com': 'Best Buy Canada',
+                            'bestbuy.com': 'Best Buy Canada',
+                            'www.vuugo.com': 'Vuugo',
+                            'vuugo.com': 'Vuugo',
+                            'www.canadacomputers.com': 'Canada Computers',
+                            'canadacomputers.com': 'Canada Computers',
+                        }
+                        
+                        retailer = trusted_retailers.get(domain, 'Unknown')
+                        
+                        # If domain not in whitelist, try to use the link text
+                        if retailer == 'Unknown' and retailer_text and retailer_text.lower() not in ['buy', 'add']:
+                            retailer = retailer_text
+                    except Exception:
+                        # If URL parsing fails, try to use the text
+                        if retailer_text and retailer_text.lower() not in ['buy', 'add']:
+                            retailer = retailer_text
                 
                 # Clean up price text (remove "Add", "From", etc.)
                 price_match = re.search(r'\$[\d,]+\.?\d*', price_text)
