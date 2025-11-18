@@ -42,6 +42,7 @@ This repository includes an automated price scraper that updates PC component pr
 ### Data Source
 
 The scraper uses **PCPartPicker** as the data source because:
+
 - PCPartPicker already aggregates prices from multiple retailers (Newegg, Amazon, Best Buy, etc.)
 - Each build in the repository already has a PCPartPicker list URL
 - PCPartPicker handles the complexity of tracking product availability across retailers
@@ -75,6 +76,7 @@ python scraper.py
 ```
 
 The script will:
+
 1. Find all markdown files in year directories (2018/, 2020/, 2021/, etc.)
 2. Extract PCPartPicker URLs from each file
 3. Scrape current prices
@@ -102,6 +104,7 @@ The script will:
 ### Automatic Execution
 
 The workflow runs automatically:
+
 - **Schedule**: Daily at 2:00 AM UTC
 - **Trigger**: Can also be manually triggered via GitHub Actions UI
 
@@ -118,10 +121,11 @@ The workflow runs automatically:
 ```yaml
 # .github/workflows/update-prices.yml
 schedule:
-  - cron: '0 2 * * *'  # Daily at 2 AM UTC
+  - cron: "0 2 * * *" # Daily at 2 AM UTC
 ```
 
 To change the schedule, modify the cron expression:
+
 - `'0 */6 * * *'` - Every 6 hours
 - `'0 0 * * 1'` - Every Monday at midnight
 - `'0 12 * * *'` - Daily at noon
@@ -135,13 +139,14 @@ The scraper expects markdown files with this table format:
 
 [PCPartPicker Part List](https://ca.pcpartpicker.com/list/8gGn9r)
 
-| Type | Item | Price | Print Price |
-| :--- | :--- | :--- | :--- |
-| **CPU** | [AMD Ryzen 3 1200...](https://ca.pcpartpicker.com/product/...) | $276.90 @ Amazon Canada | $110.00 |
-| **Memory** | [Patriot Viper Elite...](https://ca.pcpartpicker.com/product/...) | - | $77.00 |
+| Type       | Item                                                              | Price                   | Print Price |
+| :--------- | :---------------------------------------------------------------- | :---------------------- | :---------- |
+| **CPU**    | [AMD Ryzen 3 1200...](https://ca.pcpartpicker.com/product/...)    | $276.90 @ Amazon Canada | $110.00     |
+| **Memory** | [Patriot Viper Elite...](https://ca.pcpartpicker.com/product/...) | -                       | $77.00      |
 ```
 
 The scraper:
+
 - Extracts the PCPartPicker list URL from the header
 - Parses the table to find product names
 - Updates the "Price" column with current prices
@@ -150,6 +155,7 @@ The scraper:
 ## Supported Retailers
 
 The scraper recognizes these retailers:
+
 - Amazon Canada (amazon.ca, amazon.com)
 - Newegg Canada (newegg.ca, newegg.com)
 - Best Buy Canada (bestbuy.ca, bestbuy.com)
@@ -161,6 +167,7 @@ The scraper recognizes these retailers:
 ### No Prices Found
 
 If the scraper reports "No prices scraped":
+
 1. Check that the PCPartPicker URL is valid
 2. Verify the PCPartPicker page loads in a browser
 3. Check GitHub Actions logs for detailed error messages
@@ -168,6 +175,7 @@ If the scraper reports "No prices scraped":
 ### Prices Not Updating
 
 Common causes:
+
 1. Products are out of stock (shows as "-")
 2. PCPartPicker page structure changed (may need scraper update)
 3. Network issues during GitHub Actions run
@@ -201,6 +209,7 @@ To add support for a new retailer:
 4. Commit and push
 
 Example:
+
 ```python
 trusted_retailers = {
     # ... existing retailers ...
@@ -219,6 +228,7 @@ trusted_retailers = {
 ## Future Improvements
 
 Potential enhancements:
+
 - [ ] Support for US pricing (pcpartpicker.com)
 - [ ] Price history tracking
 - [ ] Email notifications when prices drop significantly
@@ -229,6 +239,7 @@ Potential enhancements:
 ## Support
 
 For issues or questions:
+
 1. Check existing Issues on GitHub
 2. Review GitHub Actions logs for errors
 3. Open a new Issue with detailed information
