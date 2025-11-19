@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/issues"
   },
-  "homepage": "https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive#readme"
+  "homepage": "https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1",
+    "http-server": "^14.1.1"
+  }
 }
