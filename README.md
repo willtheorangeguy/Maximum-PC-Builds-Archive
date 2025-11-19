@@ -50,6 +50,7 @@
 - Available as PCPartPicker lists, Markdown files, or on a website.
 - Markdown files and website show the original printed price.
 - Current prices are available in United States Dollar or Canadian Dollar.
+- **Automated daily price updates** - Prices are scraped from retailers (Newegg, Amazon, Best Buy) and updated automatically via GitHub Actions.
 - Cross platform.
 
 ## Download
@@ -156,6 +157,25 @@ Each of the issues has its builds listed in three different places, with either 
 | October 2021     | Intel Mid-Range    | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/wgbYXL) | [Markdown](2021/October/Intel%20Mid-Range.md)   | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)   |
 | October 2021     | AMD Turbo          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/VBjMFT) | [Markdown](/2021/October/AMD%20Turbo.md)        | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)   |
 | October 2021     | Intel Turbo        | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/F4s7wP) | [Markdown](/2021/October/Intel%20Turbo.md)      | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)   |
+
+## Automated Price Updates
+
+This repository includes an automated price scraper that runs daily to keep component prices up-to-date. The scraper:
+
+- Runs automatically every day at 2 AM UTC via GitHub Actions
+- Scrapes current prices from PCPartPicker (which aggregates prices from retailers like Newegg, Amazon, and Best Buy)
+- Updates the markdown files with the latest pricing information
+- Can be manually triggered using the "Update PC Part Prices" workflow in the Actions tab
+
+The price scraper is implemented in Python and uses BeautifulSoup to parse PCPartPicker's build lists. If you want to run it manually:
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the scraper
+python scraper.py
+```
 
 ## Contributing
 
