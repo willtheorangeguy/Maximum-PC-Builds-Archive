@@ -5,6 +5,12 @@ on:
     # Run daily at 2 AM UTC (adjust as needed)
     - cron: '0 2 * * *'
   workflow_dispatch:  # Allow manual triggering
+    inputs:
+      debug:
+        description: 'Enable debug logging'
+        required: false
+        default: false
+        type: boolean
 
 jobs:
   update-prices:
@@ -33,6 +39,8 @@ jobs:
       - name: Run price scraper
         run: |
           python scraper.py
+        env:
+          DEBUG: ${{ inputs.debug && '1' || '' }}
       
       - name: Check for changes
         id: git-check

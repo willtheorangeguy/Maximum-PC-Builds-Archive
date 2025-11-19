@@ -19,8 +19,9 @@ import requests
 from bs4 import BeautifulSoup
 
 # Configure logging
+log_level = logging.DEBUG if os.getenv('DEBUG') else logging.INFO
 logging.basicConfig(
-    level=logging.INFO,
+    level=log_level,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
@@ -61,48 +62,108 @@ class PCPartPickerScraper:
             # PCPartPicker uses a table structure for parts list
             prices = {}
             
-            # Find the parts table - try multiple possible selectors
+            # Try multiple strategies to find the parts list
+            parts_table = None
+            
+            # Strategy 1: Look for table with specific classes
             parts_table = soup.find('table', class_='pcpp-partlist__table')
+            
+            # Strategy 2: Look for table by ID
             if not parts_table:
-                # Try alternative selector
                 parts_table = soup.find('table', {'id': 'partlist'})
+            
+            # Strategy 3: Look for any table containing part information
+            if not parts_table:
+                all_tables = soup.find_all('table')
+                for table in all_tables:
+                    # Check if this table has the expected structure
+                    if table.find('td', class_=lambda x: x and 'td__' in str(x)):
+                        parts_table = table
+                        logger.debug("Found parts table using fallback method")
+                        break
+            
+            # Strategy 4: Look for tbody directly (sometimes table is implicit)
+            if not parts_table:
+                tbody = soup.find('tbody')
+                if tbody and tbody.find('tr'):
+                    # Check if tbody has the right structure
+                    if tbody.find('td', class_=lambda x: x and 'td__' in str(x)):
+                        # Create a pseudo-table element
+                        parts_table = tbody
+                        logger.debug("Found parts list in tbody")
+            
             if not parts_table:
                 logger.warning(f"Could not find parts table on {url}")
+                logger.debug(f"Page has {len(soup.find_all('table'))} tables, {len(soup.find_all('tbody'))} tbody elements")
+                # Save HTML for debugging if in debug mode
+                if logger.level <= logging.DEBUG:
+                    debug_file = f"/tmp/pcpartpicker_debug_{url.split('/')[-1]}.html"
+                    with open(debug_file, 'w') as f:
+                        f.write(soup.prettify())
+                    logger.debug(f"Saved HTML to {debug_file} for inspection")
                 return prices
             
             rows = parts_table.find_all('tr')
+            logger.debug(f"Found {len(rows)} rows in parts table")
             
             for row in rows:
-                # Skip header and non-part rows
-                component_td = row.find('td', class_='td__component')
+                # Try to find component column with multiple strategies
+                # PCPartPicker uses versioned classes like td__component-2025
+                component_td = row.find('td', class_=lambda x: x and any(
+                    cls.startswith('td__component') for cls in (x if isinstance(x, list) else [x])
+                ))
+                
                 if not component_td:
                     continue
                 
-                # Extract product name
-                name_td = row.find('td', class_='td__name')
+                # Extract product name - try multiple approaches
+                # Look for td__name or td__name-2025
+                name_td = row.find('td', class_=lambda x: x and any(
+                    cls.startswith('td__name') for cls in (x if isinstance(x, list) else [x])
+                ))
+                
                 if not name_td:
                     continue
                 
-                product_link = name_td.find('a')
+                product_link = name_td.find('a', href=lambda x: x and '/product/' in str(x))
+                
                 if not product_link:
                     continue
                 
                 product_name = product_link.get_text(strip=True)
                 
-                # Extract price
-                price_td = row.find('td', class_='td__price')
+                # Extract price - look for td__price or td__price-2025
+                price_td = row.find('td', class_=lambda x: x and any(
+                    cls.startswith('td__price') for cls in (x if isinstance(x, list) else [x])
+                ))
+                
                 if not price_td:
                     continue
                 
-                price_text = price_td.get_text(strip=True)
+                # Price is in a link with class pp_async_mr
+                price_link = price_td.find('a', class_='pp_async_mr')
+                if price_link:
+                    price_text = price_link.get_text(strip=True)
+                    retailer_href = price_link.get('href', '')
+                else:
+                    # Fallback to getting all text from the cell
+                    price_text = price_td.get_text(strip=True)
+                    retailer_href = ''
                 
-                # Extract retailer if available
+                # Extract retailer - check td__where column for better info
                 retailer = 'Unknown'
-                retailer_link = price_td.find('a')
-                if retailer_link:
-                    retailer_href = retailer_link.get('href', '')
-                    retailer_text = retailer_link.get_text(strip=True)
-                    
+                where_td = row.find('td', class_='td__where')
+                if where_td:
+                    where_link = where_td.find('a')
+                    if where_link:
+                        retailer_href = where_link.get('href', '')
+                        # Get alt text from image if available
+                        img = where_link.find('img')
+                        if img and img.get('alt'):
+                            retailer = img.get('alt')
+                
+                # If we didn't get retailer from td__where, try from price link
+                if retailer == 'Unknown' and retailer_href:
                     # Properly parse URL to extract domain for security
                     try:
                         parsed_url = urlparse(retailer_href)
@@ -130,14 +191,8 @@ class PCPartPickerScraper:
                         }
                         
                         retailer = trusted_retailers.get(domain, 'Unknown')
-                        
-                        # If domain not in whitelist, try to use the link text
-                        if retailer == 'Unknown' and retailer_text and retailer_text.lower() not in ['buy', 'add']:
-                            retailer = retailer_text
                     except Exception:
-                        # If URL parsing fails, try to use the text
-                        if retailer_text and retailer_text.lower() not in ['buy', 'add']:
-                            retailer = retailer_text
+                        pass
                 
                 # Clean up price text (remove "Add", "From", etc.)
                 price_match = re.search(r'\$[\d,]+\.?\d*', price_text)
