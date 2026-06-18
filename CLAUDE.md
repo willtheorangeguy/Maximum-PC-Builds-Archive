@@ -49,6 +49,7 @@ The scraper (`scraper.py`) extracts PCPartPicker URLs from markdown files, scrap
 Format: `type(scope): description`
 
 Examples from history:
+
 - `feat(pip): bump lxml to 6.1.0`
 - `fix(github-actions/workflows): update dependencies of gitleaks action to v3`
 
