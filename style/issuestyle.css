@@ -101,3 +101,30 @@ a {
   .link:active {
     color: rgb(125, 125, 125);
   }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: rgb(30, 30, 30);
+    color: rgb(230, 230, 230);
+  }
+
+  h2 {
+    color: rgb(230, 230, 230);
+  }
+
+  .copy {
+    color: rgb(170, 170, 170);
+  }
+
+  .issue:link,
+  .issue:visited,
+  .issue:active {
+    color: rgb(230, 230, 230);
+  }
+
+  .link:link,
+  .link:visited,
+  .link:active {
+    color: rgb(170, 170, 170);
+  }
+}
