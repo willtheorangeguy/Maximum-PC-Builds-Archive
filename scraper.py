@@ -93,7 +93,9 @@ class PCPartPickerScraper:
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         })
         self.delay = 2  # Delay between requests in seconds
-    
+        self.max_retries = 4  # Retries on HTTP 429 (rate limit)
+        self.backoff_base = 30  # Seconds; doubles each retry (30, 60, 120, 240)
+
     def extract_pcpartpicker_url(self, markdown_content: str) -> Optional[str]:
         """Extract the PCPartPicker list URL from markdown content."""
         match = re.search(r'\[PCPartPicker Part List\]\((https://ca\.pcpartpicker\.com/list/[a-zA-Z0-9]+)\)', markdown_content)
@@ -110,10 +112,33 @@ class PCPartPickerScraper:
         try:
             logger.info(f"Scraping prices from: {url}")
             time.sleep(self.delay)  # Be respectful to the server
-            
-            response = self.session.get(url, timeout=30)
+
+            # PCPartPicker rate-limits (HTTP 429) across a long bulk run.
+            # Back off exponentially and retry rather than dropping the build.
+            response = None
+            for attempt in range(self.max_retries + 1):
+                response = self.session.get(url, timeout=30)
+                if response.status_code != 429:
+                    break
+                if attempt == self.max_retries:
+                    logger.error(
+                        f"Rate limited (429) on {url} after {self.max_retries} "
+                        f"retries; giving up"
+                    )
+                    return {}
+                wait = self.backoff_base * (2 ** attempt)
+                # Honour Retry-After if the server sends one
+                retry_after = response.headers.get('Retry-After')
+                if retry_after and retry_after.isdigit():
+                    wait = max(wait, int(retry_after))
+                logger.warning(
+                    f"Rate limited (429) on {url}; backing off {wait}s "
+                    f"(attempt {attempt + 1}/{self.max_retries})"
+                )
+                time.sleep(wait)
+
             response.raise_for_status()
-            
+
             soup = BeautifulSoup(response.content, 'lxml')
             
             # PCPartPicker uses a table structure for parts list
