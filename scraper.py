@@ -15,6 +15,7 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from urllib.parse import urlparse
 
+import cloudscraper
 import requests
 from bs4 import BeautifulSoup
 
@@ -27,11 +28,67 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+def normalize_product_name(name: str) -> str:
+    """
+    Normalize a product name for fuzzy matching between archived markdown link
+    text and the current PCPartPicker page text (which drifts over time, e.g.
+    parenthetical fragments like "(14nm)" get added or dropped).
+    """
+    # Drop parenthetical fragments, lowercase, collapse whitespace
+    name = re.sub(r'\([^)]*\)', ' ', name)
+    name = name.lower()
+    name = re.sub(r'\s+', ' ', name).strip()
+    return name
+
+
+def name_tokens(name: str) -> set:
+    """
+    Tokenize a product name into a set for order-insensitive fuzzy matching.
+    Splits digit/letter boundaries (so "7200RPM" == "7200 RPM") and drops
+    punctuation, so reordered words and injected model numbers still overlap.
+    """
+    name = re.sub(r'\([^)]*\)', ' ', name).lower()
+    name = re.sub(r'(\d)([a-z])', r'\1 \2', name)
+    name = re.sub(r'([a-z])(\d)', r'\1 \2', name)
+    name = re.sub(r'[^a-z0-9]+', ' ', name)
+    return {t for t in name.split() if t}
+
+
+def best_token_match(target: str, candidates: dict, threshold: float = 0.6):
+    """
+    Find the candidate key whose token set best overlaps `target`.
+
+    Score is containment: shared tokens / size of the smaller token set, so an
+    archived name still matches when the live page injects extra tokens (model
+    numbers, "DVD", etc.). Returns the candidate's value, or None below
+    `threshold`.
+    """
+    target_tokens = name_tokens(target)
+    if not target_tokens:
+        return None
+
+    best_value = None
+    best_score = threshold
+    for key, value in candidates.items():
+        key_tokens = name_tokens(key)
+        if not key_tokens:
+            continue
+        shared = len(target_tokens & key_tokens)
+        score = shared / min(len(target_tokens), len(key_tokens))
+        if score > best_score:
+            best_score = score
+            best_value = value
+    return best_value
+
+
 class PCPartPickerScraper:
     """Scraper for PCPartPicker build lists."""
     
     def __init__(self):
-        self.session = requests.Session()
+        # cloudscraper returns a requests.Session-compatible object that solves
+        # Cloudflare's JS challenge, which plain requests cannot (PCPartPicker
+        # returns HTTP 403 to non-browser clients).
+        self.session = cloudscraper.create_scraper()
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         })
@@ -209,7 +266,16 @@ class PCPartPickerScraper:
             return prices
             
         except requests.RequestException as e:
-            logger.error(f"Failed to scrape {url}: {e}")
+            status = getattr(getattr(e, 'response', None), 'status_code', None)
+            if status == 403:
+                logger.error(
+                    f"Failed to scrape {url}: HTTP 403 (Cloudflare block) - "
+                    f"cloudscraper could not pass the challenge"
+                )
+            elif status is not None:
+                logger.error(f"Failed to scrape {url}: HTTP {status} - {e}")
+            else:
+                logger.error(f"Failed to scrape {url}: {e}")
             return {}
         except Exception as e:
             logger.error(f"Unexpected error scraping {url}: {e}")
@@ -228,6 +294,13 @@ class PCPartPickerScraper:
             original_content = content
             lines = content.split('\n')
             modified = False
+
+            # Normalized lookup as a fallback when the archived link text no
+            # longer matches the current page text exactly.
+            normalized_prices = {
+                normalize_product_name(name): value
+                for name, value in prices.items()
+            }
             
             for i, line in enumerate(lines):
                 # Skip non-table rows
@@ -246,23 +319,32 @@ class PCPartPickerScraper:
                     continue
                 
                 product_name = match.group(1)
-                
-                # Check if we have updated price for this product
+
+                # Match this product against scraped prices, most strict first:
+                # exact -> normalized -> token-set overlap (handles reordered
+                # words and injected model numbers in the live page text).
                 if product_name in prices:
                     price, retailer = prices[product_name]
-                    
-                    # Update the price cell (parts[3])
-                    if price != '-':
-                        new_price_cell = f' {price} @ {retailer} '
-                    else:
-                        new_price_cell = ' - '
-                    
-                    # Only update if different
-                    if parts[3] != new_price_cell:
-                        parts[3] = new_price_cell
-                        lines[i] = '|'.join(parts)
-                        modified = True
-                        logger.debug(f"Updated {product_name}: {new_price_cell}")
+                elif normalize_product_name(product_name) in normalized_prices:
+                    price, retailer = normalized_prices[normalize_product_name(product_name)]
+                else:
+                    token_match = best_token_match(product_name, prices)
+                    if token_match is None:
+                        continue
+                    price, retailer = token_match
+
+                # Update the price cell (parts[3])
+                if price != '-':
+                    new_price_cell = f' {price} @ {retailer} '
+                else:
+                    new_price_cell = ' - '
+
+                # Only update if different
+                if parts[3] != new_price_cell:
+                    parts[3] = new_price_cell
+                    lines[i] = '|'.join(parts)
+                    modified = True
+                    logger.debug(f"Updated {product_name}: {new_price_cell}")
             
             if modified:
                 new_content = '\n'.join(lines)
