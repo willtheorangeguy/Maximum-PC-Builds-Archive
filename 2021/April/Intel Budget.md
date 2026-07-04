@@ -11,7 +11,7 @@
 |**Storage**|[Seagate BarraCuda 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010)| $177.60 @ Amazon Canada |$40.00|
 |**Video Card**|[MSI GeForce GTX 1050 Ti 4 GB GAMING X Video Card](https://ca.pcpartpicker.com/product/H97CmG/msi-geforce-gtx-1050-ti-4-gb-gaming-x-4g-video-card-gtx-1050-ti-gaming-x-4g)| - |$210.00|
 |**Case**|[Corsair 4000D Airflow ATX Mid Tower Case](https://ca.pcpartpicker.com/product/bCYQzy/corsair-4000d-airflow-atx-mid-tower-case-cc-9011200-ww)| - |$95.00|
-|**Power Supply**|[EVGA BR 450 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/xDMwrH/evga-br-450w-80-bronze-certified-atx-power-supply-100-br-0450-k1)| $320.08 @ Amazon Canada |$50.00|
+|**Power Supply**|[EVGA BR 450 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/xDMwrH/evga-br-450w-80-bronze-certified-atx-power-supply-100-br-0450-k1)| $295.23 @ Amazon Canada |$50.00|
 |**Operating System**|[Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140)| - |$25.00|
 | _Prices include shipping, taxes, rebates, and discounts_ |
 | **Total**                                                | **$1109.46**                                                                                                                                                               |

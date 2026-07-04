@@ -4,7 +4,7 @@
 
 | Type                                                     | Item                                                                                                                                                                                          | Price                     | Print Total |
 | :------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------ | :---------- |
-|**CPU**|[AMD Ryzen 9 3950X 3.5 GHz 16-Core Processor](https://ca.pcpartpicker.com/product/t7CFf7/amd-ryzen-9-3950x-35-ghz-16-core-processor-100-100000051wof)| $909.99 @ Amazon Canada |$690.00|
+|**CPU**|[AMD Ryzen 9 3950X 3.5 GHz 16-Core Processor](https://ca.pcpartpicker.com/product/t7CFf7/amd-ryzen-9-3950x-35-ghz-16-core-processor-100-100000051wof)| - |$690.00|
 |**CPU Cooler**|[Corsair iCUE H150i ELITE CAPELLIX 75 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/8jFKHx/corsair-icue-h150i-elite-capellix-75-cfm-liquid-cpu-cooler-cw-9060048-ww)| - |$160.00|
 |**Motherboard**|[ASRock X570 Extreme4 ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/tJxbt6/asrock-x570-extreme4-atx-am4-motherboard-x570-extreme4)| - |$232.00|
 |**Memory**|[Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/khmFf7/corsair-vengeance-rgb-pro-32-gb-2-x-16-gb-ddr4-3600-memory-cmw32gx4m2z3600c18)| - |$144.00|

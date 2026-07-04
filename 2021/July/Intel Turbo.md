@@ -7,9 +7,9 @@
 |**CPU**|[Intel Core i9-10900K 3.7 GHz 10-Core Processor](https://ca.pcpartpicker.com/product/cwFKHx/intel-core-i9-10900k-37-ghz-10-core-processor-bx8070110900k)| $899.52 @ Amazon Canada |$465.00|-|
 |**CPU Cooler**|[be quiet! Pure Loop 360 Liquid CPU Cooler](https://ca.pcpartpicker.com/product/fJjNnQ/be-quiet-pure-loop-360-liquid-cpu-cooler-bw008)| - |$120.00|-|
 |**Motherboard**|[MSI Z590 PRO WIFI ATX LGA1200 Motherboard](https://ca.pcpartpicker.com/product/V7PQzy/msi-z590-pro-wifi-atx-lga1200-motherboard-z590-pro-wifi)| - |$220.00|-|
-|**Memory**|[ADATA XPG SPECTRIX D41 16 GB (2 x 8 GB) DDR4-3600 CL17 Memory](https://ca.pcpartpicker.com/product/Wvvbt6/adata-xpg-spectrix-d41-16gb-2-x-8gb-ddr4-3600-memory-ax4u360038g17-dt41)| $191.99 @ PC-Canada |$180.00|-|
+|**Memory**|[ADATA XPG SPECTRIX D41 16 GB (2 x 8 GB) DDR4-3600 CL17 Memory](https://ca.pcpartpicker.com/product/Wvvbt6/adata-xpg-spectrix-d41-16gb-2-x-8gb-ddr4-3600-memory-ax4u360038g17-dt41)| $193.99 @ PC-Canada |$180.00|-|
 |**Storage**|[Sabrent Rocket Q 1 TB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/HmmFf7/sabrent-rocket-q-1-tb-m2-2280-nvme-solid-state-drive-sb-rktq-1tb)| - |$110.00|-|
-|**Storage**|[Western Digital Blue 6 TB 3.5" 5400RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Z2HRsY/western-digital-blue-6-tb-35-5400rpm-internal-hard-drive-wd60ezaz)| $245.99 @ PC-Canada |$140.00|-|
+|**Storage**|[Western Digital Blue 6 TB 3.5" 5400RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Z2HRsY/western-digital-blue-6-tb-35-5400rpm-internal-hard-drive-wd60ezaz)| $248.99 @ PC-Canada |$140.00|-|
 |**Video Card**|[AMD Radeon RX 6900 XT 16 GB Video Card](https://ca.pcpartpicker.com/product/WjvdnQ/amd-radeon-rx-6900-xt-16-gb-video-card-100-438373)| - |$999.00|$2200.00|
 |**Case**|[Phanteks Enthoo Pro 2 ATX Full Tower Case](https://ca.pcpartpicker.com/product/gQWBD3/phanteks-enthoo-pro-2-atx-full-tower-case-ph-es620ptg_dbk01)| - |$140.00|-|
 |**Power Supply**|[NZXT C (2020) 750 W 80+ Gold Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/XBzFf7/nzxt-c-750-w-80-gold-certified-fully-modular-atx-power-supply-np-c750m-us)| - |$120.00|-|

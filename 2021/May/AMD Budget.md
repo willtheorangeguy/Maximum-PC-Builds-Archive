@@ -4,7 +4,7 @@
 
 | Type                                                     | Item                                                                                                                                                                     | Price                   | Print Price | "Street" Price |
 | :------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------- | :---------- | :------------- |
-|**CPU**|[AMD Athlon 3000G (14nm) 3.5 GHz Dual-Core Processor](https://ca.pcpartpicker.com/product/664BD3/amd-athlon-3000g-35-ghz-dual-core-processor-yd3000c6fhbox)| - |$106.00|-|
+|**CPU**|[AMD Athlon 3000G (14nm) 3.5 GHz Dual-Core Processor](https://ca.pcpartpicker.com/product/664BD3/amd-athlon-3000g-35-ghz-dual-core-processor-yd3000c6fhbox)| $69.98 @ Amazon Canada |$106.00|-|
 | **Motherboard**                                          | B450M Pro-M2 Max                                                                                                                                                         | -                       | $65.00      | -              |
 |**Memory**|[Crucial Ballistix 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory](https://ca.pcpartpicker.com/product/BxTzK8/crucial-ballistix-16-gb-2-x-8-gb-ddr4-3200-memory-bl2k8g32c16u4b)| - |$72.00|-|
 |**Storage**|[Samsung 980 Pro 250 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/MBVG3C/samsung-980-pro-250-gb-m2-2280-nvme-solid-state-drive-mz-v8p250bam)| - |$80.00|-|

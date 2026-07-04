@@ -9,7 +9,7 @@
 |**Motherboard**|[ASRock Z590 Steel Legend WiFi 6E ATX LGA1200 Motherboard](https://ca.pcpartpicker.com/product/gBbTwP/asrock-z590-steel-legend-wifi-6e-atx-lga1200-motherboard-z590-steel-legend-wifi-6e)| - |$220.00|-|
 |**Memory**|[G.Skill Trident Z RGB 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/6jBTwP/gskill-trident-z-rgb-16gb-2-x-8gb-ddr4-3600-memory-f4-3600c18d-16gtzrx)| $170.98 @ Newegg Canada |$180.00|-|
 |**Storage**|[Gigabyte AORUS Gen4 7000s 1 TB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/gMpzK8/gigabyte-aorus-gen4-7000s-1-tb-m2-2280-nvme-solid-state-drive-gp-ag70s1tb)| - |$210.00|-|
-|**Storage**|[Western Digital Blue 6 TB 3.5" 5400RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Z2HRsY/western-digital-blue-6-tb-35-5400rpm-internal-hard-drive-wd60ezaz)| $245.99 @ PC-Canada |$150.00|-|
+|**Storage**|[Western Digital Blue 6 TB 3.5" 5400RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Z2HRsY/western-digital-blue-6-tb-35-5400rpm-internal-hard-drive-wd60ezaz)| $248.99 @ PC-Canada |$150.00|-|
 |**Video Card**|[AMD Radeon RX 6900 XT 16 GB Video Card](https://ca.pcpartpicker.com/product/WjvdnQ/amd-radeon-rx-6900-xt-16-gb-video-card-100-438373)| - |$999.00|$1475.00|
 |**Case**|[Phanteks Enthoo Pro 2 ATX Full Tower Case](https://ca.pcpartpicker.com/product/gQWBD3/phanteks-enthoo-pro-2-atx-full-tower-case-ph-es620ptg_dbk01)| - |$150.00|-|
 |**Power Supply**|[EVGA SuperNOVA G6 750 W 80+ Gold Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/qH4Ycf/evga-supernova-g6-750-w-80-gold-certified-fully-modular-atx-power-supply-220-g6-0750-x1)| - |$100.00|-|

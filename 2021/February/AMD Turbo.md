@@ -4,7 +4,7 @@
 
 | Type                                                     | Item                                                                                                                                                                                                                   | Price                     | Print Price |
 | :------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------ | :---------- |
-|**CPU**|[AMD Ryzen 9 5900X 3.7 GHz 12-Core Processor](https://ca.pcpartpicker.com/product/KwLwrH/amd-ryzen-9-5900x-37-ghz-12-core-processor-100-100000061wof)| $607.38 @ Amazon Canada |$550.00|
+|**CPU**|[AMD Ryzen 9 5900X 3.7 GHz 12-Core Processor](https://ca.pcpartpicker.com/product/KwLwrH/amd-ryzen-9-5900x-37-ghz-12-core-processor-100-100000061wof)| $449.58 @ Amazon Canada |$550.00|
 |**CPU Cooler**|[Corsair iCUE H150i ELITE CAPELLIX 75 CFM Liquid CPU Cooler](https://ca.pcpartpicker.com/product/8jFKHx/corsair-icue-h150i-elite-capellix-75-cfm-liquid-cpu-cooler-cw-9060048-ww)| - |$170.00|
 |**Motherboard**|[MSI MAG X570 TOMAHAWK WIFI ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/WKdrxr/msi-mag-x570-tomahawk-wifi-atx-am4-motherboard-mag-x570-tomahawk-wifi)| - |$220.00|
 |**Memory**|[G.Skill Trident Z Neo 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory](https://ca.pcpartpicker.com/product/w3FKHx/gskill-trident-z-neo-32-gb-2-x-16-gb-ddr4-3600-cl16-memory-f4-3600c16d-32gtznc)| $379.99 @ Newegg Canada |$160.00|
