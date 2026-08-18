@@ -34,11 +34,11 @@ Maximum-PC-Builds-Archive/
 
 The same build exists three ways, and the currency differs by design:
 
-| Where | Currency | Shows |
-|---|---|---|
-| PCPartPicker | Any it supports | Current price only |
+| Where                  | Currency         | Shows                   |
+| ---------------------- | ---------------- | ----------------------- |
+| PCPartPicker           | Any it supports  | Current price only      |
 | Markdown, in this repo | Canadian dollars | Printed **and** current |
-| Website, on `gh-pages` | US dollars | Printed **and** current |
+| Website, on `gh-pages` | US dollars       | Printed **and** current |
 
 Only the last two preserve the original printed price, which is the point of an archive — the
 interesting figure is the gap between what a build cost then and what it costs now.

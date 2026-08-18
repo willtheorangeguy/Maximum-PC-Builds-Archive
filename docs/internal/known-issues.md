@@ -7,7 +7,6 @@ licensing decision rather than a documentation one.
 Ordered by severity. See [`docs/roadmap.md`](../roadmap.md) for the narrative version,
 which also covers deliberate non-goals.
 
-
 **6 open:** 3 medium, 3 low.
 
 ## 1. The hero GIF never rendered — a /blob/ URL serves HTML, not an image
@@ -75,7 +74,6 @@ which also covers deliberate non-goals.
 **Why it matters:** Both happened to resolve from a README at the repository root, so the inconsistency was invisible. It stopped being invisible the moment the table moved into `docs/`, where the two forms resolve differently — nine rows broke and the rest did not.
 
 **Suggested fix:** Normalised in this sweep. Generating the index from the directory tree would prevent the class of problem entirely.
-
 
 ---
 
