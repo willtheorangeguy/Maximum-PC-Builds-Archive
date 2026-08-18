@@ -18,10 +18,10 @@ uniform scheme.
 
 ## Two branches, two artefacts
 
-| Branch | Holds |
-|---|---|
-| `main` | Markdown builds, the scraper, documentation |
-| `gh-pages` | The generated website |
+| Branch     | Holds                                       |
+| ---------- | ------------------------------------------- |
+| `main`     | Markdown builds, the scraper, documentation |
+| `gh-pages` | The generated website                       |
 
 The website is a **derived artefact**. The Markdown files are the source of truth, and the
 published pages are one rendering of them — which is why the currency can differ between the
@@ -29,11 +29,11 @@ two without either being wrong.
 
 ## Three representations, deliberately
 
-| Form | Currency | Printed price | Current price |
-|---|---|---|---|
-| PCPartPicker | Any supported | No | Yes, live |
-| Markdown | CAD | Yes | Yes, from the last scrape |
-| Website | USD | Yes | Yes, from the last scrape |
+| Form         | Currency      | Printed price | Current price             |
+| ------------ | ------------- | ------------- | ------------------------- |
+| PCPartPicker | Any supported | No            | Yes, live                 |
+| Markdown     | CAD           | Yes           | Yes, from the last scrape |
+| Website      | USD           | Yes           | Yes, from the last scrape |
 
 PCPartPicker is a live service and cannot carry a historical figure, which is why the archive
 keeps its own copies. Losing the printed price would leave nothing to compare against, and the
