@@ -1,232 +1,74 @@
 <!-- Logo -->
 <h1 align="center">
-  <img src="https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/blob/main/docs/images/logo.png" alt="Maximum PC Builds Archive">
+  <img src="https://raw.githubusercontent.com/willtheorangeguy/.github/main/icons/Maximum-PC-Builds-Archive/logo.png" height="250px" width="400px" alt="Maximum PC Builds Archive">
   <br>
   Maximum PC Builds Archive
   <br>
 </h1>
 
 <!-- Copy -->
-<h4 align="center">An archive of the builds featured on the last pages of the Maximum PC magazine.</h4>
+<h4 align="center">Every Maximum PC magazine build, archived as part lists — with the printed price alongside today's.</h4>
 
 <!-- Badges -->
 <div align="center">
-  <!-- Stability -->
-  <img alt="GitHub Pages State" src="https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages">
-  <!-- Gitleaks -->
   <img alt="Gitleaks State" src="https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/actions/workflows/gitleaks.yml/badge.svg">
-  <!-- Version -->
-  <img alt="GitHub Version" src="https://img.shields.io/github/v/release/willtheorangeguy/Maximum-PC-Builds-Archive">
-  <!-- Issues -->
+  <img alt="Price Updates" src="https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/actions/workflows/update-prices.yml/badge.svg">
   <img alt="GitHub Issues" src="https://img.shields.io/github/issues/willtheorangeguy/Maximum-PC-Builds-Archive">
-  <!-- Pull Requests -->
   <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/willtheorangeguy/Maximum-PC-Builds-Archive">
-  <!-- Discord -->
-  <img alt="Discord Server ID" src="https://img.shields.io/discord/1012463188241031218">
-  <!-- Downloads -->
-  <img alt="Downloads" src="https://img.shields.io/github/downloads/willtheorangeguy/Maximum-PC-Builds-Archive/total">
 </div>
 
 <!-- Navigation -->
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#download">Download</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#documentation">Documentation</a> •
+  <a href="#support">Support</a> •
   <a href="#contributing">Contributing</a> •
-  <a href="#changelog">Changelog</a> •
-  <a href="#credits">Credits & Contributors</a>
+  <a href="#credits">Credits</a> •
+  <a href="#attribution">Attribution</a> •
+  <a href="#license">License</a>
 </p>
 
-<!-- Screenshot(s) -->
-
-![screenshot](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/blob/main/docs/images/welcome.gif)
+<!-- Hero -->
+![screenshot](https://raw.githubusercontent.com/willtheorangeguy/.github/main/icons/Maximum-PC-Builds-Archive/welcome.gif)
 
 ## Key Features
 
-- Archive over many issues.
-- Budget, Mid-Range, and Turbo builds included.
-- Split between AMD and Intel categories for some years.
-- Table of contents available.
-- Available as PCPartPicker lists, Markdown files, or on a website.
-- Markdown files and website show the original printed price.
-- Current prices are available in United States Dollar or Canadian Dollar.
-- **Automated daily price updates** - Prices are scraped from retailers (Newegg, Amazon, Best Buy) and updated automatically via GitHub Actions.
-- Cross platform.
+- Builds spanning many issues, in Budget, Mid-Range, and Turbo tiers.
+- AMD and Intel variants for the years the magazine split them.
+- Three representations of every build: PCPartPicker, Markdown, and a web page.
+- Both the **printed price** and the **current price**, so you can see the drift.
+- Prices refreshed daily by a scraper running in GitHub Actions.
+- Markdown in Canadian dollars, the website in US dollars, PCPartPicker in any currency.
 
-## Download
+## Usage
 
-You can **[download](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/archive/refs/heads/main.zip) the `main` branch archive** to view the Markdown files or **[download](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/archive/refs/heads/gh-pages.zip) the `gh-pages` branch archive** run the website locally.
+Find a build in the [build index](docs/builds.md), then open whichever representation suits — see [`docs/usage.md`](docs/usage.md).
 
-## How To Use
+## Documentation
 
-Each of the issues has its builds listed in three different places, with either current prices and/or prices from the time of printing. Below this list is a table of contents, with links for each build.
+Full documentation lives in [`docs/`](docs/README.md):
+[Build index](docs/builds.md) · [Usage](docs/usage.md) · [Architecture](docs/architecture.md) · [Scraper](docs/scraper.md) · [FAQ](docs/faq.md) · [Troubleshooting](docs/troubleshooting.md) · [Roadmap](docs/roadmap.md)
 
-1. Each build can be found on PCPartPicker, under the [_willtheornageguy_](https://pcpartpicker.com/user/willtheornageguy/saved/) account. These lists can be changed to whatever currency PCPartPicker supports, and only display the current price per part.
-2. This repository holds Markdown versions of each build, which can be found through the folders labeled by year. These lists are only available in Canadian Dollars, and display both the current price and printed price.
-3. The [webpage](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/) for this repository holds HTML versions of each build, which are sorted by year. These lists are only available in United States Dollars, and display both the current price and printed price.
+## Support
 
-### Table of Contents
-
-| **Year & Issue** | **Build Category** | **PCPartPicker**                                                            | **Markdown**                                    | **Web**                                                                             |
-| ---------------- | ------------------ | --------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------- |
-| January 2018     | Budget             | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/PrnrMp) | [Markdown](/2018/January/Budget.md)             | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2018/january/)   |
-| January 2018     | Mid-Range          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/BKdcxr) | [Markdown](/2018/January/Mid-Range.md)          | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2018/january/)   |
-| January 2018     | Turbo              | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/b3vcxr) | [Markdown](/2018/March/Turbo.md)                | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2018/january/)   |
-|                  |                    |                                                                             |                                                 |                                                                                     |
-| February 2018    | Budget             | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/Jvh8Q7) | [Markdown](/2018/February/Budget.md)            | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2018/february/)  |
-| February 2018    | Mid-Range          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/zmJZcf) | [Markdown](/2018/February/Mid-Range.md)         | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2018/february/)  |
-| February 2018    | Turbo              | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/yDTRVn) | [Markdown](/2018/February/Turbo.md)             | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2018/february/)  |
-|                  |                    |                                                                             |                                                 |                                                                                     |
-| March 2018       | Budget             | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/ymJZcf) | [Markdown](/2018/March/Budget.md)               | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2018/march/)     |
-| March 2018       | Mid-Range          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/T42npg) | [Markdown](/2018/March/Mid-Range.md)            | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2018/march/)     |
-| March 2018       | Turbo              | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/JzjC8d) | [Markdown](/2018/March/Turbo.md)                | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2018/march/)     |
-|                  |                    |                                                                             |                                                 |                                                                                     |
-| Holiday 2020     | AMD Budget         | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/99PNzy) | [Markdown](/2020/Holiday/AMD%20Budget.md)       | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2020/holiday/)   |
-| Holiday 2020     | Intel Budget       | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/NNTRVn) | [Markdown](/2020/Holiday/Intel%20Budget.md)     | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2020/holiday/)   |
-| Holiday 2020     | AMD Mid-Range      | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/fHLnpg) | [Markdown](/2020/Holiday/AMD%20Mid-Range.md)    | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2020/holiday/)   |
-| Holiday 2020     | Intel Mid-Range    | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/Zftb23) | [Markdown](/2020/Holiday/Intel%20Mid-Range.md)  | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2020/holiday/)   |
-| Holiday 2020     | AMD Turbo          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/fPLnpg) | [Markdown](/2020/Holiday/AMD%20Turbo.md)        | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2020/holiday/)   |
-| Holiday 2020     | Intel Turbo        | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/cbZDjX) | [Markdown](/2020/Holiday/Intel%20Turbo.md)      | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2020/holiday/)   |
-|                  |                    |                                                                             |                                                 |                                                                                     |
-| January 2021     | AMD Budget         | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/kJ2npg) | [Markdown](/2021/January/AMD%20Budget.md)       | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/january/)   |
-| January 2021     | Intel Budget       | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/8QNjnQ) | [Markdown](/2021/January/Intel%20Budget.md)     | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/january/)   |
-| January 2021     | AMD Mid-Range      | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/JT39CJ) | [Markdown](/2021/January/AMD%20Mid-Range.md)    | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/january/)   |
-| January 2021     | Intel Mid-Range    | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/CtqgnQ) | [Markdown](/2021/January/Intel%20Mid-Range.md)  | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/january/)   |
-| January 2021     | AMD Turbo          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/kRh8Q7) | [Markdown](/2021/January/AMD%20Turbo.md)        | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/january/)   |
-| January 2021     | Intel Turbo        | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/Y8sgnQ) | [Markdown](/2021/January/Intel%20Turbo.md)      | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/january/)   |
-|                  |                    |                                                                             |                                                 |                                                                                     |
-| February 2021    | AMD Budget         | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/rLKRVn) | [Markdown](/2021/February/AMD%20Budget.md)      | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/february/)  |
-| February 2021    | Intel Budget       | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/y3MgnQ) | [Markdown](/2021/February/Intel%20Budget.md)    | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/february/)  |
-| February 2021    | AMD Mid-Range      | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/LnFMCJ) | [Markdown](/2021/February/AMD%20Mid-Range.md)   | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/february/)  |
-| February 2021    | Intel Mid-Range    | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/xQNjnQ) | [Markdown](2021/February/Intel%20Mid-Range.md)  | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/february/)  |
-| February 2021    | AMD Turbo          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/N7gHWZ) | [Markdown](/2021/February/AMD%20Turbo.md)       | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/february/)  |
-| February 2021    | Intel Turbo        | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/2G6dbv) | [Markdown](/2021/February/Intel%20Turbo.md)     | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/february/)  |
-|                  |                    |                                                                             |                                                 |                                                                                     |
-| March 2021       | AMD Budget         | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/Z3MgnQ) | [Markdown](/2021/March/AMD%20Budget.md)         | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/march/)     |
-| March 2021       | Intel Budget       | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/WvCkf7) | [Markdown](/2021/March/Intel%20Budget.md)       | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/march/)     |
-| March 2021       | AMD Mid-Range      | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/ydwZcf) | [Markdown](/2021/March/AMD%20Mid-Range.md)      | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/march/)     |
-| March 2021       | Intel Mid-Range    | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/4T39CJ) | [Markdown](2021/March/Intel%20Mid-Range.md)     | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/march/)     |
-| March 2021       | AMD Turbo          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/mcPNzy) | [Markdown](/2021/March/AMD%20Turbo.md)          | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/march/)     |
-| March 2021       | Intel Turbo        | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/6tqgnQ) | [Markdown](/2021/March/Intel%20Turbo.md)        | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/march/)     |
-|                  |                    |                                                                             |                                                 |                                                                                     |
-| April 2021       | AMD Budget         | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/8tqgnQ) | [Markdown](/2021/April/AMD%20Budget.md)         | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/april/)     |
-| April 2021       | Intel Budget       | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/DRh8Q7) | [Markdown](/2021/April/Intel%20Budget.md)       | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/april/)     |
-| April 2021       | AMD Mid-Range      | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/nDXNzy) | [Markdown](/2021/April/AMD%20Mid-Range.md)      | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/april/)     |
-| April 2021       | Intel Mid-Range    | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/RdwZcf) | [Markdown](2021/April/Intel%20Mid-Range.md)     | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/april/)     |
-| April 2021       | AMD Turbo          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/DLKRVn) | [Markdown](/2021/April/AMD%20Turbo.md)          | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/april/)     |
-| April 2021       | Intel Turbo        | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/m9PNzy) | [Markdown](/2021/April/Intel%20Turbo.md)        | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/april/)     |
-|                  |                    |                                                                             |                                                 |                                                                                     |
-| May 2021         | AMD Budget         | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/DjCkf7) | [Markdown](/2021/May/AMD%20Budget.md)           | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/may/)       |
-| May 2021         | Intel Budget       | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/Bvc74D) | [Markdown](/2021/May/Intel%20Budget.md)         | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/may/)       |
-| May 2021         | AMD Mid-Range      | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/qdc74D) | [Markdown](/2021/May/AMD%20Mid-Range.md)        | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/may/)       |
-| May 2021         | Intel Mid-Range    | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/DzR6Q7) | [Markdown](2021/May/Intel%20Mid-Range.md)       | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/may/)       |
-| May 2021         | AMD Turbo          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/WPNjnQ) | [Markdown](/2021/May/AMD%20Turbo.md)            | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/may/)       |
-| May 2021         | Intel Turbo        | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/QBJZcf) | [Markdown](/2021/May/Intel%20Turbo.md)          | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/may/)       |
-|                  |                    |                                                                             |                                                 |                                                                                     |
-| June 2021        | AMD Budget         | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/3BJZcf) | [Markdown](/2021/June/AMD%20Budget.md)          | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/june/)      |
-| June 2021        | Intel Budget       | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/fGDFZL) | [Markdown](/2021/June/Intel%20Budget.md)        | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/june/)      |
-| June 2021        | AMD Mid-Range      | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/Ry7HWZ) | [Markdown](/2021/June/AMD%20Mid-Range.md)       | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/june/)      |
-| June 2021        | Intel Mid-Range    | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/g4h8Q7) | [Markdown](2021/June/Intel%20Mid-Range.md)      | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/june/)      |
-| June 2021        | AMD Turbo          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/NTR6Q7) | [Markdown](/2021/June/AMD%20Turbo.md)           | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/june/)      |
-| June 2021        | Intel Turbo        | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/9pppK8) | [Markdown](/2021/June/Intel%20Turbo.md)         | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/june/)      |
-|                  |                    |                                                                             |                                                 |                                                                                     |
-| July 2021        | AMD Budget         | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/QY7HWZ) | [Markdown](/2021/July/AMD%20Budget.md)          | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/july/)      |
-| July 2021        | Intel Budget       | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/YzR6Q7) | [Markdown](/2021/July/Intel%20Budget.md)        | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/july/)      |
-| July 2021        | AMD Mid-Range      | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/p4h8Q7) | [Markdown](/2021/July/AMD%20Mid-Range.md)       | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/july/)      |
-| July 2021        | Intel Mid-Range    | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/6Vy74D) | [Markdown](2021/July/Intel%20Mid-Range.md)      | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/july/)      |
-| July 2021        | AMD Turbo          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/KLnrMp) | [Markdown](/2021/July/AMD%20Turbo.md)           | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/july/)      |
-| July 2021        | Intel Turbo        | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/TxjC8d) | [Markdown](/2021/July/Intel%20Turbo.md)         | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/july/)      |
-|                  |                    |                                                                             |                                                 |                                                                                     |
-| August 2021      | AMD Budget         | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/9ZDFZL) | [Markdown](/2021/August/AMD%20Budget.md)        | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/august/)    |
-| August 2021      | Intel Budget       | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/Z39pK8) | [Markdown](/2021/August/Intel%20Budget.md)      | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/august/)    |
-| August 2021      | AMD Mid-Range      | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/Q2nrMp) | [Markdown](/2021/August/AMD%20Mid-Range.md)     | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/august/)    |
-| August 2021      | Intel Mid-Range    | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/TgHKqs) | [Markdown](2021/August/Intel%20Mid-Range.md)    | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/august/)    |
-| August 2021      | AMD Turbo          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/3JZDjX) | [Markdown](/2021/August/AMD%20Turbo.md)         | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/august/)    |
-| August 2021      | Intel Turbo        | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/Th8v4D) | [Markdown](/2021/August/Intel%20Turbo.md)       | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/august/)    |
-|                  |                    |                                                                             |                                                 |                                                                                     |
-| September 2021   | AMD Budget         | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/xBJZcf) | [Markdown](/2021/September/AMD%20Budget.md)     | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/september/) |
-| September 2021   | Intel Budget       | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/J39pK8) | [Markdown](/2021/September/Intel%20Budget.md)   | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/september/) |
-| September 2021   | AMD Mid-Range      | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/msgHWZ) | [Markdown](/2021/September/AMD%20Mid-Range.md)  | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/september/) |
-| September 2021   | Intel Mid-Range    | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/wsgHWZ) | [Markdown](2021/September/Intel%20Mid-Range.md) | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/september/) |
-| September 2021   | AMD Turbo          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/NMgHWZ) | [Markdown](/2021/September/AMD%20Turbo.md)      | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/september/) |
-| September 2021   | Intel Turbo        | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/yMgHWZ) | [Markdown](/2021/September/Intel%20Turbo.md)    | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/september/) |
-|                  |                    |                                                                             |                                                 |                                                                                     |
-| October 2021     | AMD Budget         | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/H9r8ZL) | [Markdown](/2021/October/AMD%20Budget.md)       | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)   |
-| October 2021     | Intel Budget       | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/KBjMFT) | [Markdown](/2021/October/Intel%20Budget.md)     | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)   |
-| October 2021     | AMD Mid-Range      | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/GLs7wP) | [Markdown](/2021/October/AMD%20Mid-Range.md)    | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)   |
-| October 2021     | Intel Mid-Range    | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/wgbYXL) | [Markdown](2021/October/Intel%20Mid-Range.md)   | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)   |
-| October 2021     | AMD Turbo          | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/VBjMFT) | [Markdown](/2021/October/AMD%20Turbo.md)        | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)   |
-| October 2021     | Intel Turbo        | [PCPartPicker](https://pcpartpicker.com/user/willtheornageguy/saved/F4s7wP) | [Markdown](/2021/October/Intel%20Turbo.md)      | [Web](https://willtheorangeguy.github.io/Maximum-PC-Builds-Archive/2021/october/)   |
-
-## Automated Price Updates
-
-This repository includes an automated price scraper that runs daily to keep component prices up-to-date. The scraper:
-
-- Runs automatically every day at 2 AM UTC via GitHub Actions
-- Scrapes current prices from PCPartPicker (which aggregates prices from retailers like Newegg, Amazon, and Best Buy)
-- Updates the markdown files with the latest pricing information
-- Can be manually triggered using the "Update PC Part Prices" workflow in the Actions tab
-
-The price scraper is implemented in Python and uses BeautifulSoup to parse PCPartPicker's build lists. If you want to run it manually:
-
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the scraper
-python scraper.py
-```
+Open a [GitHub Discussion](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/discussions/new) or file an [issue](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/issues/new/choose).
 
 ## Contributing
 
-Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/willtheorangeguy/PyWorkout/compare).
-
-Please read [`CONTRIBUTING`](https://github.com/willtheorangeguy/.github/blob/main/CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](https://github.com/willtheorangeguy/.github/blob/main/CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
-
-## Changelog
-
-See the [`CHANGELOG`](CHANGELOG.md) file for details.
+Contributions welcome. See the org-wide [Contributing Guide](https://github.com/willtheorangeguy/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/willtheorangeguy/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## Credits
 
-This software uses the following open source packages, projects, services or websites:
+Price data via [PCPartPicker](https://pcpartpicker.com/). Scraping with [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
 
-<!-- Credits Table -->
-<table>
-  <tr>
-    <th align="center"><img src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F2107379463%2Ficons%2Fmonochrome_large.png?w=240&h=240&s=8a19bbc158996d098e2fb18310ba7f33" width="150" height="150" alt="GitHub"/></th>
-    <th align="center"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHsk5yjnJT2uQ/company-logo_200_200/0/1519871740270?e=2147483647&v=beta&t=JmMj1O2MWS0QeZfa5_5FnFC9YAyRVSIBPd-Eq6K96JU" width="150" height="150" alt="GitHub"/></th>
-    <th align="center"><img src="https://ca.pcpartpicker.com/static/forever/img/pcpp-icon.svg" width="150" height="150" alt="PCPP"/></th>
-    <th align="center"><img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60ae96c09f902b0001b4569c/0x0.png" width="150" height="150" alt="Bunny Fonts"/></th>
-    <th align="center"><img src="https://assets.simpleanalytics.com/press/logo-ratio-1-1/square.svg" width="150" height="150" alt="Simple Analytics"/></th>
-  </tr>
-  <tr>
-    <td align="center">GitHub</td>
-    <td align="center">Future Magazines (Maximum PC)</td>
-    <td align="center">PCPartPicker</td>
-    <td align="center">Bunny Fonts</td>
-    <td align="center">Simple Analytics</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/">Web</a> - <a href="https://github.com/pricing">Plans</a></td>
-    <td align="center"><a href="https://www.futureplc.com/">Web</a> - <a href="https://www.magazinesdirect.com/az-magazines/53604058/maximum-pc-magazine-subscription.thtml?j=MPC">Subscribe</a></td>
-    <td align="center"><a href="https://ca.pcpartpicker.com/">Web</a></td>
-    <td align="center"><a href="https://fonts.bunny.net/">Web</a></td>
-    <td align="center"><a href="https://simpleanalytics.com/?referral=willtheorangeguy">Web</a> - <a href="https://www.simpleanalytics.com/pricing">Plans</a></td>
-</table>
+## Attribution
 
-## Contributors
-
-- [@willtheorangeguy](https://github.com/willtheorangeguy) - Sponsor on [PayPal](https://paypal.me/wvdg44?country.x=CA&locale.x=en_US)
-
-## You may also like...
-
-- [Running Calculator](https://github.com/willtheorangeguy/Running-Calculator) - A running speed calculator for any unit of distance.
-- [Python Logo Widgets](https://github.com/willtheorangeguy/Python-Logo-Widgets) - Python Powered Logo widgets that can be added to any GUI project.
-- [Random Lotto Number Chooser](https://github.com/willtheorangeguy/Random-Lotto-Number-Chooser) - Randomly pick lucky lotto numbers.
+The builds were originally published by **Maximum PC** magazine. This is an unofficial
+archive of the component selections, not affiliated with or endorsed by the magazine or its
+publisher. See [`CONTENT_LICENSE.md`](CONTENT_LICENSE.md).
 
 ## License
 
-My work on this project is released under the Creative Commons Attribution 4.0 International Public License, which can be found in the [`LICENSE`](LICENSE.md) file. The builds themselves, as well as the cover images are copyright [Future US, Inc.](https://www.futureplc.com/our-brands/) See the [Privacy Policy](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/blob/main/docs/legal/PRIVACY.md) and [Terms and Conditions](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/blob/main/docs/legal/TERMS.md) for legal information.
-
-I have legally purchased every magazine I have taken the builds from, because, **yes**, physical magazines are better than digital magazines.
+- **Code:** MIT — see [`LICENSE.md`](LICENSE.md)
+- **Compiled data:** see [`CONTENT_LICENSE.md`](CONTENT_LICENSE.md) and [Attribution](#attribution)
