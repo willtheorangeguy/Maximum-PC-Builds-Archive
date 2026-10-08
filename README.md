@@ -53,7 +53,7 @@ Full documentation lives in [`docs/`](docs/README.md):
 
 ## Support
 
-Open a [GitHub Discussion](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/discussions/new) or file an [issue](https://github.com/willtheorangeguy/Maximum-PC-Builds-Archive/issues/new/choose).
+Please read [`CONTRIBUTING`](https://github.com/willtheorangeguy/.github/blob/main/CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](https://github.com/willtheorangeguy/.github/blob/main/CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
 
 ## Contributing
 
