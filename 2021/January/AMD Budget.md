@@ -5,7 +5,7 @@
 | Type                                                     | Item                                                                                                                                                                      | Price                   | Print Price |
 | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------- | :---------- |
 |**CPU**|[AMD Ryzen 3 3100 3.6 GHz Quad-Core Processor](https://ca.pcpartpicker.com/product/ndwkcf/amd-ryzen-3-3100-36-ghz-quad-core-processor-100-100000284box)| - |$130.00|
-|**Motherboard**|[ASRock B550M Pro4 Micro ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/NT7p99/asrock-b550m-pro4-micro-atx-am4-motherboard-b550m-pro4)| $109.99 @ Newegg Canada |$90.00|
+|**Motherboard**|[ASRock B550M Pro4 Micro ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/NT7p99/asrock-b550m-pro4-micro-atx-am4-motherboard-b550m-pro4)| $104.99 @ Newegg Canada |$90.00|
 |**Memory**|[OLOy MD4U083016BGDA 16 GB (2 x 8 GB) DDR4-3000 CL16 Memory](https://ca.pcpartpicker.com/product/smGnTW/oloy-16-gb-2-x-8-gb-ddr4-3000-cl16-memory-md4u083016bgda)| - |$50.00|
 |**Storage**|[Samsung 980 Pro 250 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/MBVG3C/samsung-980-pro-250-gb-m2-2280-nvme-solid-state-drive-mz-v8p250bam)| - |$80.00|
 |**Storage**|[Seagate Constellation ES 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/ZwsKHx/seagate-internal-hard-drive-st1000nm0011)| - |$30.00|

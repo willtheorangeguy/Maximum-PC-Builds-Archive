@@ -4,8 +4,8 @@
 
 | Type                                                     | Item                                                                                                                                                                                         | Price                   | Print Price |
 | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------- | :---------- |
-|**CPU**|[AMD Athlon 3000G (14nm) 3.5 GHz Dual-Core Processor](https://ca.pcpartpicker.com/product/664BD3/amd-athlon-3000g-35-ghz-dual-core-processor-yd3000c6fhbox)| - |$100.00|
-|**Motherboard**|[ASRock B450M-HDV R4.0 Micro ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/RD97YJ/asrock-b450m-hdv-r40-micro-atx-am4-motherboard-b450m-hdv-r40)| $107.54 @ Amazon Canada |$65.00|
+|**CPU**|[AMD Athlon 3000G (14nm) 3.5 GHz Dual-Core Processor](https://ca.pcpartpicker.com/product/664BD3/amd-athlon-3000g-35-ghz-dual-core-processor-yd3000c6fhbox)| $69.98 @ Amazon Canada |$100.00|
+|**Motherboard**|[ASRock B450M-HDV R4.0 Micro ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/RD97YJ/asrock-b450m-hdv-r40-micro-atx-am4-motherboard-b450m-hdv-r40)| $111.05 @ Amazon Canada |$65.00|
 |**Memory**|[TEAMGROUP T-FORCE VULCAN Z 16 GB (2 x 8 GB) DDR4-3000 CL16 Memory](https://ca.pcpartpicker.com/product/6wGxFT/team-t-force-vulcan-z-16-gb-2-x-8-gb-ddr4-3000-memory-tlzgd416g3000hc16cdc01)| - |$70.00|
 |**Storage**|[Samsung 980 Pro 250 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/MBVG3C/samsung-980-pro-250-gb-m2-2280-nvme-solid-state-drive-mz-v8p250bam)| - |$90.00|
 |**Storage**|[Seagate BarraCuda 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010)| $177.60 @ Amazon Canada |$45.00|

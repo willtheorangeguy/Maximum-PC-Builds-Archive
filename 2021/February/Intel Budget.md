@@ -8,7 +8,7 @@
 |**Motherboard**|[MSI B460M-A PRO Micro ATX LGA1200 Motherboard](https://ca.pcpartpicker.com/product/WMNgXL/msi-b460m-a-pro-micro-atx-lga1200-motherboard-b460m-a-pro)| - |$75.00|
 |**Memory**|[ADATA XPG Z1 16 GB (2 x 8 GB) DDR4-3000 CL16 Memory](https://ca.pcpartpicker.com/product/KmfhP6/adata-xpg-z1-16-gb-2-x-8-gb-ddr4-3000-memory-ax4u300038g16-dsz1)| - |$55.00|
 |**Storage**|[Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/P4ZFf7/samsung-970-evo-500gb-m2-2280-solid-state-drive-mz-v7e500bw)| - |$60.00|
-|**Storage**|[Western Digital RE4 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/KzTmP6/western-digital-internal-hard-drive-wd1003fbyx)| - |$39.00|
+|**Storage**|[Western Digital RE4 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/KzTmP6/western-digital-internal-hard-drive-wd1003fbyx)| $250.01 @ Amazon Canada |$39.00|
 |**Video Card**|[Gigabyte GeForce GTX 1650 SUPER 4 GB OC Video Card](https://ca.pcpartpicker.com/product/VX2bt6/gigabyte-geforce-gtx-1650-super-4-gb-oc-video-card-gv-n165soc-4gd)| - |$202.00|
 |**Case**|[Corsair 4000D Airflow ATX Mid Tower Case](https://ca.pcpartpicker.com/product/bCYQzy/corsair-4000d-airflow-atx-mid-tower-case-cc-9011200-ww)| - |$80.00|
 |**Power Supply**|[Gigabyte P450B 450 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/LZMTwP/gigabyte-p-b-450-w-80-bronze-certified-atx-power-supply-gp-p450b)| - |$45.00|

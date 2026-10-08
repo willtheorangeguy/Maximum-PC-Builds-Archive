@@ -4,7 +4,7 @@
 
 | Type                                                     | Item                                                                                                                                                                                   | Price                    | Print Price |
 | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- | :---------- |
-|**CPU**|[AMD Ryzen 5 3600 3.6 GHz 6-Core Processor](https://ca.pcpartpicker.com/product/9nm323/amd-ryzen-5-3600-36-thz-6-core-processor-100-100000031box)| $335.10 @ Amazon Canada |$223.00|
+|**CPU**|[AMD Ryzen 5 3600 3.6 GHz 6-Core Processor](https://ca.pcpartpicker.com/product/9nm323/amd-ryzen-5-3600-36-thz-6-core-processor-100-100000031box)| - |$223.00|
 | **CPU Cooler**                                           | Corsair A500 Dual Fan CPU Cooler                                                                                                                                                       | -                        | $63.00      |
 |**Motherboard**|[Asus TUF GAMING X570-PLUS ATX AM4 Motherboard](https://ca.pcpartpicker.com/product/whMTwP/asus-tuf-gaming-x570-plus-atx-am4-motherboard-tuf-gaming-x570-plus)| - |$182.00|
 |**Memory**|[OLOy MD4U0836180BHKDA 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/V8848d/oloy-16-gb-2-x-8-gb-ddr4-3600-cl18-memory-md4u0836180bhkda)| - |$57.00|

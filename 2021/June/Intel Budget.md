@@ -11,7 +11,7 @@
 |**Storage**|[Seagate BarraCuda 1 TB 3.5" 7200RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010)| $177.60 @ Amazon Canada |$46.00|-|
 | **Video Card**                                           | Nvidia GeForce RTX 3060                                                                                                                                                           | -                       | $330.00     | $950.00        |
 |**Case**|[Corsair 4000D Airflow ATX Mid Tower Case](https://ca.pcpartpicker.com/product/bCYQzy/corsair-4000d-airflow-atx-mid-tower-case-cc-9011200-ww)| - |$95.00|-|
-|**Power Supply**|[SeaSonic S12III 500 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/FL3H99/seasonic-s12iii-500-w-80-bronze-certified-atx-power-supply-ssr-500gb3)| $89.99 @ PC-Canada |$42.00|-|
+|**Power Supply**|[SeaSonic S12III 500 W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/FL3H99/seasonic-s12iii-500-w-80-bronze-certified-atx-power-supply-ssr-500gb3)| $90.99 @ PC-Canada |$42.00|-|
 |**Operating System**|[Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140)| - |$32.00|-|
 | _Prices include shipping, taxes, rebates, and discounts_ |
 | **Total**                                                | **$703.35**                                                                                                                                                                       |

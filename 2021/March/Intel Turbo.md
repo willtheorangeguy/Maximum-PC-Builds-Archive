@@ -9,8 +9,8 @@
 |**Motherboard**|[Asus TUF GAMING Z490-PLUS ATX LGA1200 Motherboard](https://ca.pcpartpicker.com/product/CjK2FT/asus-tuf-gaming-z490-plus-atx-lga1200-motherboard-tuf-gaming-z490-plus)| - |$180.00|
 |**Memory**|[Kingston HyperX Fury 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory](https://ca.pcpartpicker.com/product/n3qBD3/kingston-hyperx-fury-32-gb-2-x-16-gb-ddr4-3600-cl18-memory-hx436c18fb4k232)| - |$159.00|
 |**Storage**|[Corsair MP400 1 TB M.2-2280 NVME Solid State Drive](https://ca.pcpartpicker.com/product/PrkgXL/corsair-mp400-1-tb-m2-2280-nvme-solid-state-drive-cssd-f1000gbmp400)| - |$115.00|
-|**Storage**|[Western Digital Blue 6 TB 3.5" 5400RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Z2HRsY/western-digital-blue-6-tb-35-5400rpm-internal-hard-drive-wd60ezaz)| $245.99 @ PC-Canada |$130.00|
-|**Video Card**|[EVGA GeForce RTX 2080 SUPER 8 GB BLACK GAMING Video Card](https://ca.pcpartpicker.com/product/fpbCmG/evga-geforce-rtx-2080-super-8-gb-black-gaming-video-card-08g-p4-3081-kr)| $2934.35 @ Amazon Canada |$1050.00|
+|**Storage**|[Western Digital Blue 6 TB 3.5" 5400RPM Internal Hard Drive](https://ca.pcpartpicker.com/product/Z2HRsY/western-digital-blue-6-tb-35-5400rpm-internal-hard-drive-wd60ezaz)| $248.99 @ PC-Canada |$130.00|
+|**Video Card**|[EVGA GeForce RTX 2080 SUPER 8 GB BLACK GAMING Video Card](https://ca.pcpartpicker.com/product/fpbCmG/evga-geforce-rtx-2080-super-8-gb-black-gaming-video-card-08g-p4-3081-kr)| $3036.93 @ Amazon Canada |$1050.00|
 |**Case**|[Phanteks Enthoo Pro 2 ATX Full Tower Case](https://ca.pcpartpicker.com/product/gQWBD3/phanteks-enthoo-pro-2-atx-full-tower-case-ph-es620ptg_dbk01)| - |$147.00|
 |**Power Supply**|[be quiet! Straight Power 11 750W 750 W 80+ Gold Certified Fully Modular ATX Power Supply](https://ca.pcpartpicker.com/product/9htQzy/be-quiet-straight-power-11-750w-80-gold-certified-fully-modular-atx-power-supply-bn283)| - |$120.00|
 |**Operating System**|[Microsoft Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140)| - |$25.00|
